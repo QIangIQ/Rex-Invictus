@@ -1,1 +1,0 @@
-A being that has a fixed lifespan

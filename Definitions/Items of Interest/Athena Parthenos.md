@@ -1,5 +1,0 @@
-Part of the [[Greek Pantheon]]
-Symbol of [[Athena]]
-brought by [[Annabeth Chase]]
-Previously guarded by [[Arachne]]
-Sat above [[Tartarus (Realm)]]

@@ -1,4 +1,0 @@
-[[Pyrokinesis]]
-[[Geoknesis]]
-[[Hydroknesis]]
-[[Electrokinesis]]

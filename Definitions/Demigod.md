@@ -1,1 +1,0 @@
-Race of half [[Mortal]] and half [[God]], particularly Greek
