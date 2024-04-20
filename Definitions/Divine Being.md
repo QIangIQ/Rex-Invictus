@@ -1,0 +1,1 @@
+How [[God]]s and Deities refer to each other or are referred to in official, trans-pantheonic communication

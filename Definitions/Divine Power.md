@@ -1,0 +1,1 @@
+Power granted to the foci, fueled by individual human or living being's belief in them

@@ -1,0 +1,1 @@
+A divine being, Fueled by belief by humans or the ones who manifested them. Possess strong ideals and ego
