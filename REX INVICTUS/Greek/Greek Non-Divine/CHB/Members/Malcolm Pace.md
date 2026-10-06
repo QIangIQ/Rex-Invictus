@@ -1,0 +1,5 @@
+Part of the [[Greek Pantheon]]
+[[Demigod]]
+Member of [[Camp Half-Blood]]
+Son of [[Athena]]
+Vice-leader of [[Athena's Cabin]]

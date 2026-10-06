@@ -1,0 +1,1 @@
+2 confirmed beings in this realm, being [[Chaos]] and [[Yang Kai]]

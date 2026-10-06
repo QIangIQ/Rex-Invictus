@@ -1,0 +1,1 @@
+"She who fights in front" → Honor, respect, development

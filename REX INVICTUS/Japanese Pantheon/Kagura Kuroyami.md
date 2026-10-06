@@ -1,0 +1,1 @@
+Chief engineer of the [[Amaterasu Dominion]], during the [[War of Princes]] apostle of [[Amaterasu]]

@@ -1,0 +1,21 @@
+Part of the [[Greek Pantheon]]
+[[God (greek)]]
+Son of [[Zeus]]
+Son of [[Hera]]
+Brother of [[Artemis]]
+Brother of [[Athena]]
+Brother of [[Dionysus]]
+Brother of [[Ares]]
+Resides in [[Forge of Hephaestus]]
+
+[[Divine Being 'Forgemaester']]
+
+Abilities:
+- [[Heat Absorption]]
+- [[Heat Immunity]]
+- [[Self Combustion]]
+- [[Fire Infusion]]
+- [[Greek Fire Manipulation]]
+- [[Energy Manipulation]]
+- [[Superior Human Physiology]]
+- [[Purification]]

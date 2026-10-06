@@ -1,0 +1,5 @@
+[[Greek Pantheon]]
+[[Primordial]]
+[[Divine Being 'Matron of Leviathans']]
+Daughter of [[Pontus]] and [[Gaia]]
+Temporary residence in [[Karcharonexus]], running from her father [[Pontus]]

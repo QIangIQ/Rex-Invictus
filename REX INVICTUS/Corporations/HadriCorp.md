@@ -1,0 +1,1 @@
+"Limiter of infinity"

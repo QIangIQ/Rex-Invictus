@@ -1,0 +1,5 @@
+Part of the [[Greek Pantheon]]
+[[Satyr]]
+Chosen of [[Pan]]
+Friends of [[Annabeth Chase]]
+Member of [[Camp Half-Blood]]

@@ -1,0 +1,8 @@
+1. [[Baal]]
+2. [[Paimon]]
+3. [[Beleth]]
+4. [[Purson]]
+5. [[Asmodeus]]
+6. [[Vine]]
+7. [[Balam]]
+8. [[Zagan]]

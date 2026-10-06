@@ -1,0 +1,1 @@
+Small to medium-sized warship in spacefaring fleets, designed for agility and versatility. Typically ranging from 50 to 500 meters in length, corvettes are equipped with moderate offensive and defensive systems, advanced sensors, and high-thrust propulsion.

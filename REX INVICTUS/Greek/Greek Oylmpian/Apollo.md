@@ -1,0 +1,18 @@
+Part of the [[Greek Pantheon]]
+Part of the [[Roman Pantheon]]
+Son of [[Zeus]] and [[Leto]]
+Brother of [[Artemis]]
+[[Alternate Divine Being 'Blessed Symphony']]
+[[Divine Being 'Apostle of Fate']]
+[[God]]
+
+- [[Heat Absorption]]
+- [[Heat Immunity]]
+- [[Self Combustion]]
+- [[Fire Infusion]]
+- [[Greek Fire Manipulation]]
+- [[Energy Manipulation]]
+- [[Superior Human Physiology]]
+- [[Purification]]
+
+Currently seeking a relationship with [[Hathor]] 

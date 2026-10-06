@@ -1,0 +1,1 @@
+A Heavy Frigate is a large, heavily armed warship, ranging from 1000 to 1250 meters in length. Designed for frontline engagements

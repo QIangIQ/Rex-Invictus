@@ -1,0 +1,10 @@
+Ruler above the [[Demon Lords of Hell]]
+
+[[Baal]]
+[[Paimon]]
+[[Beleth]]
+[[Purson]]
+[[Asmodeus]]
+[[Vine]]
+[[Balam]]
+[[Zagan]]

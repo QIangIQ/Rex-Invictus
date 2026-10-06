@@ -1,0 +1,1 @@
+Abbreviation of the [[Undying Olympian Empire]]

@@ -1,0 +1,23 @@
+Part of the [[Greek Pantheon]]
+[[God]]
+Brother of [[Poseidon]]
+Brother of [[Hades]]
+Brother of [[Hestia]]
+Brother of [[Demeter]]
+Brother of [[Hera]]
+Father of [[Hermes]]
+
+[[Divine Being 'Roar of Clouds']]
+
+Abilites:
+- [[Electrical Telekinesis]]
+- [[Electricity Attacks]]
+- [[Electricity Detection]]
+- [[Electricity Generation]]
+- [[Superior Human Physiology]]
+- [[Electrical Regeneration]]
+- [[Thunderstorm Creation]]
+- [[Electrical Immunity]]
+- [[Incineration]]
+- [[Light Manipulation]]
+- [[Storm Manipulation]]

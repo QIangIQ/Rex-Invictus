@@ -1,0 +1,5 @@
+Part of the [[Greek Pantheon]]
+[[Titan]]ess, Daughter of [[Atlas]] and [[Tethys]]
+Sister of [[Zoe Nightshade]], [[Hesperide]]s, and [[Pleiades]]
+Former crush on [[Leo]]
+Crush on [[Percy Jackson]]

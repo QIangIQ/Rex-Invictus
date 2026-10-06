@@ -1,0 +1,1 @@
+Seer and Prophets, Psychic endowments

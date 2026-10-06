@@ -1,0 +1,5 @@
+The 36 Cave Heavens and 72 Paradises are the top 108 influences of the [Outer Universe] (3,000 Worlds). As massive and ancient organizations, they consists of numerous High Rank [[Open Heaven 1~9]] Realm masters (7th-9th Rank), and are extremely powerful. The organizations prefer not to conflict with each other in general, and instead opt to dominate all the best benefits the Outer Universe has to offer.
+
+No influence dares to challenge the 108 major influences, and they only have fear of Divine Beings like [[Sun's Burning Light]], [[Moon's Nether Glimmer]], or [[Ink (Entity)]] (all [[Quasi-Creator]] Entities). In addition, the Cave Heavens and Paradises are known to suppress outsiders from directly promoting to 7th Rank Open Heaven Realm. Later, it is revealed that they have been secretly protecting the 3,000 Worlds from the Ink Clan in another world, called [[Ink Battlefield]], since ancient times.
+
+The 9th Rank Open Heaven Realm Supreme leaders of Cave Heavens and Paradises are known as [[Old Ancestors]], and they have historically resided exclusively on Ink Battlefield along with most of the top level powerhouses of these influences.

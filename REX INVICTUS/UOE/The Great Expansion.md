@@ -1,0 +1,40 @@
+- 3045.01.1.1
+	- Humanity's explosive pupulation rise across Gaia and into early interstellar colonies triggers an unprecedented surge in belief, worship, and psychic resonance.
+	- This uncontrolled influx of [[Divine Power]] causes instability among dormant godly domains. [[Pan]] being the first and most noticeable. Minor gods awaken, almost every old power stirs, and [[Olympus Primaris]] itself begins to crack under divine pressure. [[Olympus Secundus]] struggles to hold the new [[Divine Being]]s
+- 3045.02.1.3 – The Council of Olympus Reconvenes
+	- [[Zeus]] calls an emergency session on [[Olympus Secundus]], to decide further course of action
+- 3045.04.2.7 – The Great Expansion Decreed
+	- Zeus, declares open expansion for Greek gods into unclaimed or neutral sectors of the galaxy.
+	- [[God]]s are instructed to avoid territories claimed by other pantheons ([[Norse Pantheon]], [[Japanese Pantheon]], [[Indian Pantheon]], [[Egyptian Pantheon]]).
+	- Notably, [[Percy Jackson]] is left behind on [[Gaia (Planet)]] to guard their homeworld.
+- 3045.06.3.5 – Poseidon Claims Thalassus Belt
+	- first [[Divine Being]] to stake a claim upon a system, creating his [[Karcharonexus]] and [[New Atlantis]]
+- 3045.07.2.2
+	- [[Athena]] Launches the [[Répertoire du Savoir Athénien]], centralized around [[Parlamentum mk.III]]
+- 3045.10.3.4 – Formation on [[Sunborne Cult]] by [[Apollo]]
+	- A power burst from an unknown [[Primordial]] on the [[Tachyon Bridge Network]] led a large amount of Apollonian colony-ships to veer off course and fall off the highway, into a void of emptiness in the middle of nowhere. They eventually forgot thier god, but began worshipping the sun, which eventually formed into the [[Sunborne Cult]], and their sister-organization the [[Blackstar Crucible]]
+- 3046.01.1.1
+	- [[Hermes]] and [[Athena]] form a system of [[Tachyon Bridge Network]]s that serve as the travel network for Greek territories
+- 3046.03.2.5 – Demeter Cultivates [[The Verdant Expanse]]
+	- Demeter’s terraforming Legacies and [[Demigod]]s spread into the Verdant Expanse, greening once-dead worlds.
+	- Such [[Farm-Planets]] are considered neutral ground.
+	- Secretly, she strikes a mutual defense pact with [[Isis]]
+- 3046.06.4.3 
+	- Hades claims the [[Elysian Necropolis]], forming the first [[Titan (Mech)]] legions, under a joint cooperation with [[Ares]] ([[ARES technicha]] and [[Scaperelli Knetics]]), called [[Charon's Heralds]]
+- 3047.01.3.6 – First [[Panpantheonic Summit]] Fails
+	- A summit between Greek, Norse, and Egyptian delegates ends in chaos when [[Ares]] challenges [[Thor]] to a duel.
+	- [[Athena]] and [[Freyja]] prevent war, but diplomatic tensions escalate.
+	- [[Zeus]] considers preemptive strikes. [[Hera]] slaps him down _hard_.
+- 3047.05.1.2 
+	- [[Artemis]] gains control over all moons under [[UOE]] control, expanding her power significantly
+	- Finishes construction of orbital platforms above Earth, now named [[Gaia (Planet)]]
+	- She forbids _all men_ from her territory. [[Ares]] tries to send a scouting party. They vanish. One salvaged report from one of Zeus' agents has found partial reports. These can be found in [[Annex 1023]]
+- 3048.02.4.4
+	- A Demigod named Perseus, legacy of [[Apollo]] completes a multi-system diplomatic unification under her own rule.
+	- Declared the first [[Ascended Legacy]], granted full [[demigod status]]
+- 3048.09.2.3
+	- Isolated Legacies, especially children of Dionysus and Hecate, begin rejecting Olympus' authority.
+	- They found fringe cults and [[Free-city ship]]s.
+	- Dionysus says “let ‘em party” until one starts building a sun-eating spell.
+		- [[Annex 3331]]
+	- The unfortunate demigod, named ||||||||||||||||| ||||||||||, is the first person to suffer the planetary obliterators called the [[Zeus-Wrath Hunter Killer]] satellites, marking the end of the great expansion.

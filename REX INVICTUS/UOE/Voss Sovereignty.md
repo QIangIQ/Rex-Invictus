@@ -1,0 +1,1 @@
+Sovereignty of the [[Voss System]], won when the [[The Princes]] trumped the [[Undying Olympian Empire]] during the [[War of Princes]]

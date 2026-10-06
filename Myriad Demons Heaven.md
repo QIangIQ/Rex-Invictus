@@ -1,0 +1,2 @@
+One of the [[36 Cave Heavens and 72 Paradises]]
+As their name suggests, Myriad Demons Heaven are the most powerful known collection of Demonic cultivators in the 3,000 Worlds. Each member exudes a thick Demon Qi, and they collectively are known to have an inborn cruel, merciless, and aggressive nature. The most elite and talented of Myriad Demons Heaven cultivators are known for their practice of two extremely profound and powerful Eye Techniques in the [[Demon Eye of Annihilation]] and the [[Black Purgatory Eye]].

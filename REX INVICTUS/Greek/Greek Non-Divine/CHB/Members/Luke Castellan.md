@@ -1,0 +1,8 @@
+Part of the [[Greek Pantheon]]
+[[Demigod]]
+Former member of [[Camp Half-Blood]]
+Son of [[Hermes]]
+Former leader of [[Hermes' Cabin]]
+Host of [[Kronos]]
+Wielder of [[Kronos' Scythe]]
+Previous relationship with [[Annabeth Chase]]

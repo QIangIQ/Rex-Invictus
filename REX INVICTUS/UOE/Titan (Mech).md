@@ -1,0 +1,1 @@
+Equipped with [[Weapon Parts and Variants]]

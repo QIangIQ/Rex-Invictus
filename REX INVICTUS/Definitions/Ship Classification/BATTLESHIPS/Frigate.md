@@ -1,0 +1,1 @@
+A Medium Frigate is a mid-sized warship, typically between 750 and 1000 meters in length. It balances firepower, defense, and versatility.

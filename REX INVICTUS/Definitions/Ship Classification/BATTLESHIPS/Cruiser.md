@@ -1,0 +1,1 @@
+Large warship, typically between 2500 and 5000 meters in length. It serves as a multi-role vessel with balanced offensive and defensive capabilities.

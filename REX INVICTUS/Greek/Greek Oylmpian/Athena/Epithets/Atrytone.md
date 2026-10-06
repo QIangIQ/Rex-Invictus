@@ -1,0 +1,1 @@
+"The Unwearying" → Human will & wisdom 

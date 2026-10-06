@@ -1,0 +1,17 @@
+Part of the [[Greek Pantheon]]
+[[Demigod]]
+Son of [[Hephaestus]]
+Member of [[Camp Half-Blood]]
+Member of [[New Rome]]
+Previous relationship with [[Calypso]]
+
+Abilities:
+[[Fire Attacks]]
+[[Fire Generation]]
+[[Fire Immunity]]
+[[Heat Immunity]]
+[[Fire Projection]]
+[[Self Combustion]]
+[[Fire Armor]]
+[[Greek Fire Manipulation]]
+[[Magma Manipulation]]

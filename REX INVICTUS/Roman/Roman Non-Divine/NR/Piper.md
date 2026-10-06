@@ -1,0 +1,6 @@
+Part of the [[Roman Pantheon]]
+Part of the [[Greek Pantheon]]
+Daughter of [[Aphrodite]]
+Member of [[New Rome]]
+Member of [[Camp Half-Blood]]
+Relationship with [[Jason Grace]]

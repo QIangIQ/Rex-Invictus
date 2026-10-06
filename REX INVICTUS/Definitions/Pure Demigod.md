@@ -1,0 +1,1 @@
+Direct descendants of [[God (greek)]] and mortal/[[Demigod]]

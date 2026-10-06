@@ -1,0 +1,1 @@
+An alliance for [[Pure Demigod]]s, main belligerents of the [[War of Princes]]. Possessed the largest amount of [[Jackson Pattern]] battleships at any time

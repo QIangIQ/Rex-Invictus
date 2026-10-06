@@ -1,0 +1,11 @@
+Part of the [[Greek Pantheon]]
+Father of [[Icarus]]
+Son of [[Athena]]
+Hunted by [[Hades]]
+Created [[Labyrinth]]
+Previously hunted by: 
+[[Luke Castellan]]
+[[Percy Jackson]]
+[[Clarisse]]
+[[Ethan Nakamura]]
+[[Nico di Angelo]]

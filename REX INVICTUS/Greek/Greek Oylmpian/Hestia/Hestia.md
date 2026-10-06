@@ -1,0 +1,25 @@
+Part of the [[Greek Pantheon]]
+[[Divine Being 'Guardian of the Eternal Flame']] 
+[[Alternate Divine Being 'Lux Aeterna']]
+[[God]]
+Sister of [[Poseidon]]
+Sister of [[Hades]]
+Sister of [[Zeus]]
+Sister of [[Demeter]]
+Sister of [[Hera]]
+
+Epithets:
+
+[[Aidios]]
+[[Basileia]]
+[[Chloomorphos]] 
+
+[[Fire Attacks]]
+[[Fire Generation]]
+[[Fire Immunity]]
+[[Heat Immunity]]
+[[Fire Projection]]
+[[Self Combustion]]
+[[Fire Armor]]
+[[Greek Fire Manipulation]]
+[[Magma Manipulation]]

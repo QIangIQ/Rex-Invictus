@@ -1,0 +1,1 @@
+Deceased, Previous relationship with [[Sally Jackson]]

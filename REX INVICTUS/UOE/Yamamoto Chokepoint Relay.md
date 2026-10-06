@@ -1,0 +1,2 @@
+fixed by [[Kagura Kuroyami]], serves as the only public form of transportation and communication between the [[Undying Olympian Empire]] and the [[Amaterasu Dominion]]
+Considered one of the most travelled [[TBN Relay]] in the galaxy

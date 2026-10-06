@@ -1,0 +1,1 @@
+Close allies with [[Vampire]]s

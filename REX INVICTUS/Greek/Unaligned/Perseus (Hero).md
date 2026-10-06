@@ -1,0 +1,8 @@
+Hero of legend, named after [[Perseus (Titan)]]
+Son of [[Zeus]]
+Slayer of [[Medusa]]
+Sent on quest by [[Oracle of Delphi]]
+Assisted by [[Hermes]], [[Athena]], and the [[Gray Sisters]]
+Creator of [[Pegasus]] and [[Chrysaor]]
+Incited anger from [[Poseidon]]
+In [[Elysium]]

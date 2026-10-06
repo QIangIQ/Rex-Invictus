@@ -1,0 +1,15 @@
+An Internal Energy Actuator is an implanted organ that generates internal energy within the body, replacing the traditional method of self-cultivation. Though efficient, to old-school martial artists, this technology feels like a betrayal of the discipline and spirit once required to master true martial arts.
+
+Classified by grade and According to research by institutes under the [[Martial Arts Orthodox Alliance]], the primary factor affecting a martial artist’s adaptation to a new Qi Drive is its output level.
+
+- Low Grade (Epsilon–Zeta): Avg. 3 months to 1 year
+- Mid Grade (Gamma–Delta): Avg. 6 months to 2 years
+
+Core-level drives, used exclusively by top-tier martial masters, are considered outside this ranking system due to their overwhelming power, but the[[Répertoire du Savoir Athénien]], has classified them into Beta, Beta-Plus, Alpha, Alpha-Plus, and Ultimate.
+
+There also exist Eta / Theta / Iota Grade Qi Drives, often dismissed as the lowest tier, used mainly by back-alley thugs, low-tier martial laborers, or for temporary bodily enhancement. These are rarely seen in actual combat because even an affordable external drive unit outperforms them in output and efficiency. 
+
+- In the early 22nd century, when Internal Energy Drives were first invented, internal energy cultivation fundamentalists who used the theory that Internal Energy Drives could only produce mass-produced martial artists and couldn’t create masters gained power. Later, when masters of the transformation and mystic realms appeared, they rapidly lost their voice and faded into history.
+- One-on-one succession is a master-to-disciple tradition where martial arts are passed down directly to a single student. Typically, the master transfers their Internal Energy Drive to the disciple, which results in the master losing their martial power but if the succession involves a custom-made Internal Energy Drive, it suggests the master was wealthy or powerful, making the succession far more significant than it first appears.
+- Creating a core-grade Internal Energy Drive requires enormous capital and technology comparable to building a space battleship of at least comparable to a Greek-Pantheonic [[Light Frigate]]. Due to the production cost that would shake the foundations even if an ordinary sect went all out, there are some super masters who haven’t been able to obtain core-grade Internal Energy Drives, so while their realm of martial arts has risen, their martial power hasn’t increased significantly.
+- When implanting an Internal Energy Drive and undergoing rebirth, the internal organs recognize the Internal Energy Drive as part of the body and fuse with it. So usually, martial artists approaching the absolute master level go through a process of upgrading their Internal Energy Drive in the form of artificial organs.

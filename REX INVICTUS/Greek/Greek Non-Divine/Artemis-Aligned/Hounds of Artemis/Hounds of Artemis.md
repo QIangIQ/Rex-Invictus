@@ -1,0 +1,25 @@
+Present on all moons under UOE control. Each major UOE moon houses a kennel-crypt of no fewer than 40 active Hounds, maintained by an embedded [[Hunters of Artemis]] war-keeper and a Commander.
+
+Part of the [[Greek Pantheon]]
+Domesticated Wolves and [[Werewolves]] under [[Hunters of Artemis]]
+Receive Reinforcements form [[Lupa]] and the [[Wolf House]]
+Enhanced detection towards [[Lycaon]] and his pack
+
+- [[Arlechinus]]
+- [[Brigellus]]
+- [[Pulcinellus]] 
+- [[Pantaleon]]
+- [[Doctus]]
+- [[Capitana]] 
+- [[Columbina]]
+- [[Amatores]]
+- [[Stultifex]]
+- [[Scaramucius]] 
+- [[Tartalius]]
+- [[Spinettario]]
+- [[Cicalone]]
+- [[Florabella]]
+- [[Lustrino]]
+- [[Fanfarone]]
+- [[Cecchetus]]
+- [[Velenosa]]

@@ -1,0 +1,14 @@
+# Obsidian per-device state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Plugin settings that hold API keys or account credentials
+.obsidian/plugins/chatgpt-md/data.json
+.obsidian/plugins/remotely-save/data.json
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store

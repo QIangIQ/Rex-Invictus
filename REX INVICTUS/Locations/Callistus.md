@@ -1,0 +1,1 @@
+A fortress-planet under the control of the [[UOE]]. recruiting grounds for [[Legio XX Valeria Vitrix]]

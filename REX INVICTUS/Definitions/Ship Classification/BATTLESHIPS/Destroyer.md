@@ -1,0 +1,1 @@
+Large-sized warship, typically ranging from 1250 to 2500 meters in length. It is designed for high-speed and maneuverability with an emphasis on offensive capabilities

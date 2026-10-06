@@ -1,0 +1,1 @@
+Assign Vanguard Force to Cover Retreat 

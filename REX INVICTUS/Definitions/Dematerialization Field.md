@@ -1,0 +1,1 @@
+Cloaking field achieved by scattering all forms of light, energy, and matter from the viewers, allowing for near-perfect invisibility.

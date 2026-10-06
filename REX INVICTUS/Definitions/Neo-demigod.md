@@ -1,0 +1,1 @@
+Offspring of 2 legacies of different [[Demigod]]s from different [[God (greek)]]s

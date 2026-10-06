@@ -1,0 +1,12 @@
+Part of the [[Greek Pantheon]]
+River of Fire, ruled by [[Hades]]
+
+[[Fire Attacks]]
+[[Fire Generation]]
+[[Fire Immunity]]
+[[Heat Immunity]]
+[[Fire Projection]]
+[[Self Combustion]]
+[[Fire Armor]]
+[[Greek Fire Manipulation]]
+[[Magma Manipulation]]

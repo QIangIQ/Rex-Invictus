@@ -1,0 +1,1 @@
+Grandson of a [[God]], usually offspring of a [[Demigod]], or a particularly weak offspring of a Minor God

@@ -1,0 +1,1 @@
+Standard Chair of Command where it is neurally linked to operators spine and brian stem for direct and faster than sound singnal and information input and output

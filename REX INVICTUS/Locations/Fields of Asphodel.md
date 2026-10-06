@@ -1,0 +1,2 @@
+[[Greek Pantheon]]
+Under the dominion of [[Hades]], this is where the majority of souls go and spend eternity wandering the plans. Beside this, sits the entrance to [[Tartarus (Realm)]], [[Fields of Punishment]], and [[Elysium]]

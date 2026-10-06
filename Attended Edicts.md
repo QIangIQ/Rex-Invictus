@@ -1,0 +1,64 @@
+- [[Attended Edict: Mercy Sanction.]]
+- Attended Edict: Death.
+- Attended Edict: Terror and Death
+- Threatening an member of the [Planetary Security Forces](Planetary%20Security%20Forces). [[Attended Edict. No less than 10 solar years in the blocks, following a rigorous chastisement beating.]]
+- Looting. [[Attended Edict: Cheirectomy]] Both hands severed at the wrist and burned
+- Arrogant Presumption. [[Attended Edict: Glossectomy.]]
+- Reckless Bravado. [[Attended Edict: Public flogging and branding.]]
+- Attempted Murder of a member of the PSF by a Forcemate. [[Attended Edict: Field demotion]] and a thrashing.
+- Pyromania. [[Attended Edict: Twenty-five solar years in the polar labour camps.]]
+- Wilful Erosion of Morale. [[Attended Edict: Ten solar years in the Blocks.]]]]
+- Malicious Pedantry. [[Attended Edict: Twelve solar rotations in a catechiser asylum.]]
+- Defeatism. [[Attended Edict: Cranial scouring and five years in the blocks.]]
+- Wilful Delusion. [[Attended Edict: Cranial Scourging.]]
+- Mawkishness in the Line of Duty. [[Attended Edict: Psychic Reconstruction.]]
+- Slander of a PSF. [[Attended Edict: Life in the Blocks.]]
+- Warzone Profiteering. [[Attended Edict: Life on a Penal World.]]
+- Naked Defeatism. [[Attended Edict: Mercy Sanction.]]
+- Apostatic Pride. Attended Edict: Mercy Sanction.
+- Heretical Delusion. Attended Edict: Mercy Sanction.
+- Field Abandonment. Attended Edict: Mercy Sanction.
+- Desertion. Attended Edict: Mercy Sanction.
+- Incipient Desertion. Attended Edict: Mercy Sanction.
+- Squandering Mission Resources. Attended Edict: Mercy Sanction.
+- Wilful insubordination. Attended Edict: Mercy Sanction.
+- Attempted Bribery of an Arbitrator. Attended Edict: Mercy Sanction.
+- Attempted Intimidation of an Arbitrator. Attended Edict: Mercy Sanction.
+- Cowardice in the Field. Attended Edict: Flogging followed by Mercy Sanction.
+- Arrogant Delusion. [[Attended Edict: Three years in a Zero Twelve facility.]]
+- Propagating Rumour. [[Attended Edict: Ten years in the blocks.]]
+- Unmastered Gluttony. [[Attended Edict: Ten solar rotations in the Blocks.]]
+- False Humility. Attended Edict: [[One hundred days in a pain glove.]]
+- Laxity. Attended Edict: [[Service in a Penal Legion.]]
+- False Accusations. [Attended Edict: Glossectomy.](Attended%20Edict:%20Glossectomy.)
+- Neglect of Wargear. [Attended Edict: Field demotion](Attended%20Edict:%20Field%20demotion)
+- Accusations of Corruption. [[Attended Edict: Tripled sentence.]]
+- Unlicensed Braggartry. [[Attended Edict: Six months on a Penal World.]]
+- Wilful Idleness. [[Attended Edict: Fifteen solar rotations of hard labour.]]
+- Public Braggarty. [[Attended Edict: Three solar years on starvation rations.]]
+- Sowing Discord. [[Attended Edict: Three days latrine duty without sleep, food, and a respirator.]]
+- Unlicensed Sellswording. [[Attended Edict: Conscription.]]
+- Defacement of weapons. [[Attended Edict: Selective Amputation.]]
+- Assault on an PSF Member [[Attended Edict: Reciprocity.]]
+- Unsanctioned Levity. [[Attended Edict: Five years in a Sump Clearance gang.]]
+- Aggressive Malcontentism. [[Attended Edict: five years in the blocks.]]
+- Malaise. [[Attended Edict: Hard Labour of discretionary duration.]]
+- Misallocation of Resources. [[Attended Edict: Hazard Duty.]]
+- Dereliction of Leadership. [[Attended Edict: Field Demotion.]]
+- Threatening a Superior Operative. [[Attended Edict: Superior's Discretion.]]
+- Incipient Desertion. [[Attended Edict: Superior's Discretion.]]
+- Reckless Imposition on Resources. [[Attended Edict: Superior's Discretion.]]
+- Insubordinate Mockery. [[Attended Edict: Superior's Discretion.]]
+- Defeatist Sentiment. [[Attended Edict: Superior's Discretion.]]
+- Unwarranted Levity. [[Attended Edict: Superior's Discretion.]]
+- Questionable Hygiene. [[Attended Edict: Superior's Discretion.]]
+- Attempted Desertion. [[Attended Edict: Superior's Discretion.]]
+- Interpreting the Lex for a Superior Arbitrator. [[Attended Edict: Latrine Crawler duty for six solar months.]]
+- Defaming an Adjudicator of the PSF [[Attended Edict: Censure and Public Cathexis.]]
+- Hearsay. [[Attended Edict: A scold's bridle.]]
+- Unlicensed Revelry. [[Attended Edict: Solitary Confinement.]]
+- Drinking on duty. [[Attended Edict: fifteen solar rotations in the blocks.]]
+- Misappropriation of ammunition. [[Attended Edict: Bullet Shield.]]
+- Insubordination. Attended Edict ... let's you and me find a quiet corner.
+- Defeatism. [[Attended Edict: Punishment beatings until morale improves.]]
+- Enforced Abstinence from Vital Pleasures. [[Attended Edict: appropriate guidance from a firm and paternal hand.]]

@@ -1,0 +1,1 @@
+A Light Frigate is a small, versatile warship ranging from 500 to 750 meters in length. It is designed for speed, agility, and multi-role capabilities, often serving as the fleet's quick-response unit. 

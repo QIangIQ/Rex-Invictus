@@ -1,0 +1,1 @@
+In command of [[Legio XXII Vox Vittoria]]

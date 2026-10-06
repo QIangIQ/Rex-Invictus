@@ -1,0 +1,6 @@
+Part of the [[Roman Pantheon]]
+Brother of [[Thalia Grace]]
+Son of [[Zeus]]
+Member of [[New Rome]]
+Previous relationship with [[Reyna Avila Ramírez-Arellano]]
+Relationship with [[Piper]]

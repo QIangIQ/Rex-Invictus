@@ -1,0 +1,1 @@
+Integrated physic-AI integrated into the [[Grids]], allows for instant communication from the local populace up to the grid, where information is transported along the [[Tachyon Bridge Network]] near instantly

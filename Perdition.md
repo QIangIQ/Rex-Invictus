@@ -1,0 +1,1 @@
+Terrifying [[Greek Pantheon]]ic Virus-Plague. It has an effect of killing an Infected individual within 24 gaian hours upon contact. The caveat of the Virus is that if it infects more than 10 people, it extends the death to 1 year.

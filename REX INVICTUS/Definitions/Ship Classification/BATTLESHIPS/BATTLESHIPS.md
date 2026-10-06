@@ -1,0 +1,8 @@
+I. [[Corvette]]
+II. [[Light Frigate]]
+III. [[Frigate]]
+IV. [[Heavy Frigate]]
+V. [[Destroyer]]
+VI. [[Cruiser]]
+VII. [[Dreadnought]]
+VIII. [[Ultra-Heavy Dreadnought]]

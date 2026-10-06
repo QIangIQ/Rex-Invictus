@@ -1,0 +1,6 @@
+[[Greek Pantheon]]
+[[God]]
+First son of [[Poseidon]] [[Amphitrite]]
+Prince of [[Atlantis]]
+Brother of [[Percy Jackson]]
+Comrade of [[Delphin]]

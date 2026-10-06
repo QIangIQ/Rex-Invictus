@@ -1,0 +1,1 @@
+Infantry weapons, armor, divine wargear

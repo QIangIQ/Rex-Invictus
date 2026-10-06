@@ -1,0 +1,1 @@
+One of the three Fates, the others being [[Clotho]] and [[Lachesis]]

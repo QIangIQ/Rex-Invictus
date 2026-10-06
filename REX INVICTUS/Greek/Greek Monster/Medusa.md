@@ -1,0 +1,5 @@
+Part of the [[Greek Pantheon]]
+[[Monsters (Greek)]]
+Originally slayed by [[Perseus (Hero)]]
+Emblazoned upon [[Athena]]'s [[Ageis]]
+A [[Gorgons]]

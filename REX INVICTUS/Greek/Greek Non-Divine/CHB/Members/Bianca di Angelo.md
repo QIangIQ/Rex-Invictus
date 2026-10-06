@@ -1,0 +1,6 @@
+Part of the [[Greek Pantheon]]
+Demigod of [[Hades]]
+[[Demigod]]
+Deceased [[Hunters of Artemis]]
+Shortest tenure under [[Artemis]]
+Member of [[Camp Half-Blood]]

@@ -1,0 +1,2 @@
+Armories of [[Luna Primaris]]
+Formed from a coalition of supply chain militia during the early blockade of the [[Voss System]], [[Legio IV Argentum Avarus]] quickly developed a reputation for hoarding resources and bartering weapons between fleets.

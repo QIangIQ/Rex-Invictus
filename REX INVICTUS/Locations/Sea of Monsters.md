@@ -1,0 +1,10 @@
+[[Greek Pantheon]]
+[[Japanese Pantheon]]
+Situated as the Bermuda triangle, provides safety for multiple dangerous [[Monsters (Greek)]]
+Border between [[Poseidon]] and [[Susanowo]]
+Notables:
+(formerly)[[Reyna Avila Ramírez-Arellano]]
+[[Scylla]]
+[[Circe]]
+[[Blackbeard]]
+[[Kraken]]

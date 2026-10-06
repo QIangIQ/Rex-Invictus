@@ -1,0 +1,1 @@
+Heavily relies on strong computing prowess, due to its reliance on directional reactionary electromagnetic forcefield generation in the direction of fire

@@ -1,0 +1,1 @@
+Primary defensive servants of a [[God (greek)]] of the [[UOE]]. Usually accompanied by its twin, the[[Selenide Spear]]. Also commonly seen with its more defensive companion the [[Helion Bulwark]]

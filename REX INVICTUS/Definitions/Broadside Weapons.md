@@ -1,0 +1,14 @@
+- Pulse Cannons
+	- Short range blasts of pure energy/plasma mix
+	- Strong anti-shield
+- Tachyon Cannons
+	- Ultra long range
+	- tachyon salts bypass void and energy shielding due to their speed
+	- Usually mounted on artillery ships
+- Neutron Beams
+	- Exhibits shotgun-like spread, dissipates energy quickly, shortening effective range.
+	- Effective on torpedo boats, acting as [[Flak]] or [[Point-Defence]]
+- Electro-Bolt Cannons
+	- Electro-kinetic slugs, usually only used to nullify deflectors in assistance to main broadsides
+- [[Nested Missile batteries]]
+	- Rely on raw amounts of ballistic missiles to oversaturate defenses, cheap to produce but easily countered by large amounts of enemies

@@ -1,0 +1,8 @@
+- [[Hydro-Telekinesis]]
+- [[Property Manipulation]]
+    - [[Viscosity Manipulation]]
+- [[State Manipulation]]
+- [[Water Detection]]
+- [[Hydrokinetic Regeneration]]
+- [[Blood Manipulation]]
+- [[Superior Human Physiology]]

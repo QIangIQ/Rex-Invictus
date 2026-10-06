@@ -1,0 +1,1 @@
+Cult who worships [[Percy Jackson]] and [[Him within the moon]]. Were one the first to establish a formal alliance with the [[Sunborne Cult]]
