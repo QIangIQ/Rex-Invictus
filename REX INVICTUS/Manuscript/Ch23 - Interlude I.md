@@ -823,7 +823,7 @@ She simply intended to have options first.
 
 The Voss System was the only place in the galaxy where a thing like Minerva could go shopping for gods without a god knowing about it.
 
-The first reason was the Treaty of Mount Rumker.
+The first reason was the Treaty of Mount Rümker.
 
 Quite a few years earlier, at the neutral ruins on Gaia's moon, the [[War of Princes]] had ended in a draw. The [[Voss Sovereignty]] had kept its three stars, its three Dyson spheres and its autonomy, and in return it had signed away its right to expand for three centuries. The Empire had paid for the peace with mandates of its own. No Titan-class weapons within the four-light-year corridor between Olympian holdings and the Voss border. No Soteria-class installations there either. And, most importantly for Minerva's purposes, *no divine being, from any pantheon, may hold or command in military or executive governance within the Voss system*.
 
