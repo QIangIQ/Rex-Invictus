@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The Citadel",
+      "path": "The Citadel.md"
+    },
+    {
       "basename": "Battle of Alaska Hill",
       "path": "Battle of Alaska Hill.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.base"
-    },
-    {
-      "basename": "Vestal Fringe Corporation",
-      "path": "REX INVICTUS/Corporations/Vestal Fringe Corporation.md"
     }
   ],
   "omittedPaths": [],

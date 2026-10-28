@@ -811,3 +811,511 @@ The wedge drew in. The five big shadows and the one small one raced together acr
 They went in anyway.
 
 ---
+
+**CRUSH ONE-ONE, ON FINAL**
+
+**SIX KILOMETERS SOUTH OF THE OBJECT**
+
+---
+
+The instruments went first.
+
+Captain Marcus Hale was standing behind the cockpit with one hand on the bulkhead when the pilot, a major named Fenwick who had flown Ospreys in Helmand and the Horn of Africa and had never once in Hale's hearing raised her voice, said, "*Huh.*"
+
+Hale leaned forward. "Problem?"
+
+"*Compass is spinning.*" Fenwick tapped a display. "*INS just drifted four klicks in about two seconds. GPS says we're in the Beaufort Sea.*" A pause. "*Radar altimeter says we're underground.*"
+
+"Weather?"
+
+"*Sir, weather doesn't do this.*" She banked them gently left, eyes outside now, flying by the view through the windscreen. The snowfield below was flat and white and endless. The mountain with the soap-bubble shimmer over it sat dead ahead. Except that when Hale looked at it, it seemed to be off the right wing. Then it seemed to be off the left. "*That's funny,*" Fenwick said, in a voice that did not find it funny. "*I keep pointing at it and it keeps not being there.*"
+
+"Put us down short. Anywhere flat."
+
+"*Working on it.*"
+
+In the cabin, Gunnery Sergeant Teague had felt the bank and was already up, moving down the aisle, slapping helmets. "*Off your asses, Marines! Hands on your gear! We're going in hot and early! Iwu, if that cheese comes back up, it comes back up in your own bag!*"
+
+Out the porthole, Corporal Ochoa saw something on the ridgeline to the north. A flicker of blue, very small and far away. Then it was very large and very close.
+
+"*Contact!*" he shouted. "*Something in the air, nine o'clock, closing fast...*"
+
+The something was a young man standing on a sword.
+
+---
+
+Gongsun Jie had been told to stay on the hill. Grand Elder Mo had said so in front of everyone.
+
+And then, a quarter of an hour later, the iron birds had come straight at the array instead of going around it as every mortal before them had done. They had not been turned aside. They had faltered, wandered, and come on again, and the Grand Elder had opened one eye and said, very quietly, "*Persistent ants.*" He had turned his head a fraction toward Xue Wuya. "*Fellow Daoist Xue. You wished to earn your spirit stones.*"
+
+Then, as an afterthought: "*Jie'er. You may go also. Do not embarrass the Pavilion.*"
+
+So now Gongsun Jie was flying, and he had a problem, which was that he did not know how to kill an iron bird.
+
+Nobody had taught him. He had killed spirit beasts. He had killed a rogue cultivator once, a filthy man who had poisoned a well near the Pavilion's lower village. He had read about mortal soldiers in the reports that Lu Chen was always waving under everyone's nose. But the iron bird in front of him was as big as a hall and roaring like a dragon, and it had no eyes, no head, no heart that his divine sense could find. It was only iron, all the way through, iron and oil and fire and a great many terrified mortals.
+
+He did the only thing he could think of. He swung his sword at the nearest spinning wheel.
+
+The sword qi went out of the blade in a crescent of blue light three zhang wide and struck the left wheel just behind its hub. The blades of the wheel, which were as long as a man and very fast, came apart.
+
+The iron bird screamed. It tipped. It slewed sideways in the air, spewing black smoke and fire out of the place where its wheel had been, and began to fall.
+
+Gongsun Jie, hovering on his sword in the freezing wind, watched it go down. He found that he was slightly disappointed. It had been much easier than the reports had said.
+
+---
+
+Crush One-Two did not die like that.
+
+Crush One-Two died because Iron Arm Kang, the body cultivator, did not know what a rotor was either. He had simply picked up the largest rock on the eastern saddle, which was the size of a cart, and thrown it.
+
+He missed the wheels. He hit the nose. The Osprey's cockpit folded in on itself like paper, and the aircraft went down nose-first into a snowfield two kilometers short of its sister, and the forty-three Marines aboard rode it the whole way.
+
+Thirty-one of them got out.
+
+---
+
+"*On me! On me! Get off the bird! Get off the bird! Move, move, MOVE!*"
+
+Teague's voice cut through the smoke like a bayonet. Crush One-One had come down hard on its belly with the left nacelle on fire. The tail ramp jammed half open, and Marines were crawling out under it into waist-deep snow, dragging their gear, dragging each other. Somebody was screaming. Somebody else was shouting for a corpsman. The Raiders were already out and already moving, two shapes in white over-whites going flat behind a drift with their rifles up, as if they had been crashing in helicopters their whole lives.
+
+"*Skipper!*"
+
+Hale came out of the wreck with blood running from a cut on his forehead and his rifle in one hand and the company radio handset in the other. He looked once at the burning nacelle. He looked once at the column of black smoke two klicks east, where Crush One-Two had gone in. Then he looked north.
+
+There were people coming down the mountain.
+
+They were coming down it in robes, through the air and across the top of the snow, and they were not hurrying. Some of them were on swords. Some of them were on clouds. One of them, Hale saw with a slow, cold, distant feeling, was riding on the head of a white snake as long as a train.
+
+"Gunny," he said.
+
+"*I see 'em, sir.*"
+
+"PID?"
+
+"*They just cut our fucking bird out of the sky, sir. They're PID.*"
+
+"Weapons free," Hale said. Very calmly. The way he said everything. "Get the guns up. Get the Javelins up. Get me a perimeter around the wreck. We hold here and we link up with One-Two."
+
+"*Aye aye, sir.*"
+
+And for about ninety seconds, Lima Company did exactly what United States Marines are trained to do, and did it beautifully.
+
+The M240 teams were up on the drifts in under thirty seconds, laying down long, rolling bursts of 7.62 that kicked up fountains of snow along the slope. The rifle squads went to ground in pairs and fired in disciplined, aimed bursts. Somebody got the Raven up and someone else was already calling a grid. A Javelin gunner named Okafor knelt in the snow behind the burning tail, acquired the white snake on his command launch unit, waited for the tone and fired. The missile popped out of its tube, hung for a moment, lit its motor and climbed, then pitched over and came down on the snake's head from straight above, exactly the way it was meant to.
+
+The snake turned its head and looked at it.
+
+The beast tamer riding it lifted one hand, palm out, the way someone might hold up a hand to stop a child. The missile detonated half a meter short of his palm against something Hale couldn't see. The fireball rolled harmlessly up and around a dome of nothing. When it cleared, the snake and its rider were exactly where they had been, the beast tamer was shaking his head in mild disapproval, and Okafor was staring at his launcher.
+
+"*Sir,*" he said, in a strange voice. "*Sir, I hit it. I hit it, sir.*"
+
+"*I know you did, son. Reload.*"
+
+It went on like that.
+
+The machine guns hit them. Hale watched it happen through his rifle optic, again and again, and he would never get the pictures out of his head. A man in grey robes walked straight through a burst of 7.62 without breaking stride, and the rounds hit his chest and sparked and fell into the snow, flattened, like coins. A woman in white turned sideways, just slightly, and a whole belt went past her. Hale could have sworn she wasn't moving at all until she was somewhere else. A huge bald man with no shirt took a Carl Gustaf round in the stomach, a high-explosive anti-tank round that would have opened up a T-72, and he went back a step in the snow and looked down at his own skin with an expression of mild interest, and brushed the soot off his belly. An old man in a patched robe lay on his back on a drift two hundred meters away, drinking from a red gourd. Every time a round came near him, he moved his gourd a few centimeters to the left or the right, and the round missed.
+
+They were not fighting back. That was the worst part. They were coming down the mountain, through the fire, at a walk, and most of them weren't even bothering to fight back.
+
+"*Sir, they're not going down!*" Lieutenant Pruitt was shouting on the company net. "*Sir, rounds are not effective! I say again, rounds are not effective!*"
+
+"*Keep firing!*"
+
+"*Sir...*"
+
+"*Keep firing, Lieutenant! Second Platoon, shift right! Get on the high ground! Flank them!*"
+
+Second Platoon shifted right.
+
+It was the right call. Any instructor at the Basic School would have said so. The cultivators were coming down in a loose line, heavy on the left, and there was a low ridge to the right, a fold in the snow that ran north toward the mountain and would give a rifle platoon cover and an enfilade on the whole enemy line. Pruitt led them out at a dead run, twenty-six Marines in white over-whites plowing through the drifts, and they reached the ridge, and they kept going along it, north, toward the mountain, past a little black flag on an iron pole that none of them noticed sticking out of the snow.
+
+Hale saw it happen. He would remember that, too.
+
+The lead fire team passed the flag. The air shimmered around them, black and white, like oil on water.
+
+And the four Marines of the lead fire team were folded up.
+
+There was no other way to describe it. There was no explosion. There was no sound except a single heavy, wet *thump*, like a car door closing. The earth on either side of them simply moved, and the air above them, and everything came together on them from every direction at once, and then the earth moved back, and where the fire team had been there were four dark, neat, perfectly square blocks sitting in the snow. Each one was about the size of a footlocker. Steam came off them in the cold.
+
+The second fire team, three meters behind, stopped dead.
+
+"*Back!*" Hale was roaring, and he had never roared in his life. "*BACK! Second Platoon, fall back! Fall back to the bird! Get away from the flags!*"
+
+Most of them got away from the flags.
+
+---
+
+On the summit, the Grand Elder had not moved from his cushion.
+
+"Seven," Mo Tianhe said mildly, to no one in particular, as the formation's edge closed on a second group of mortals and opened again. "The mortals of this land are very brave. And very foolish." He sighed. "It is a waste of the array's strength. Each one that dies on the boundary costs the Earthly Fiend points a little of the yin we have gathered."
+
+Beside him, Elder Su Lianyue watched the valley below, where the iron bird burned and the mortals were falling back toward it in good order, dragging their wounded, still firing.
+
+"They are not running," she said.
+
+"No."
+
+"Most mortals would run."
+
+"Most mortals," said the Grand Elder, "have not been trained to die for an idea." He closed his eyes again. "Tell Fellow Daoist Xue and the others to be quick. If there is anything worth taking from the iron birds, take it. Then come back inside."
+
+---
+
+They were quick.
+
+The Ghost Corpse Valley woman came down from the summit on her stool of bones, still knitting. Her three iron corpses went ahead of her through the snow like great black dogs. They reached the four cubes on the ridge before anyone else, and the old woman leaned down and inspected each of them with interest, and then, with a little sigh of regret, waved them off. "*Too compact,*" she muttered. "*Can't refine what's been squeezed. Pity. Strong bones, these mortals.*" Her corpses lifted the cubes anyway and carried them off.
+
+Two of the Pavilion's inner disciples landed on the wreck of Crush One-Two and began prying at its fuselage with their swords, chattering excitedly to each other about the iron, the strange black resins, the glass that showed pictures. One of them pulled a rifle out of the snow by its sling and turned it over in his hands, frowning. He aimed it at the sky and pulled the trigger by accident, and nearly dropped it, and then laughed in delight and tucked it into his storage ring.
+
+Xue Wuya of the Blood Shadow Sect walked through the burning edge of the crash site without looking at the fire, and knelt beside a Marine lying in the snow who was no longer moving, and laid two fingers on the man's throat. A thin red mist rose out of the body and curled up into his mask.
+
+Hua Ruyan of the Joyous Union Sect watched him do it from the top of a drift and wrinkled her nose. "*Must you, Fellow Daoist Xue? In front of everyone?*"
+
+"*Blood is blood,*" said Xue Wuya, eyes closed. "*Even mortal blood. The heavens here give us nothing. One must eat where one can.*"
+
+Back at the wreck of Crush One-One, Gunnery Sergeant Teague lay behind the burning tail section with three Marines and a Raider and watched this, and his face went very still.
+
+"*Skipper,*" he said on the net, and his voice was perfectly flat. "*They're looting our dead.*"
+
+Hale did not answer for a moment.
+
+"*I see it, Gunny.*"
+
+"*Request permission to go out there.*"
+
+"*Denied.*"
+
+"*Sir...*"
+
+"*Denied, Gunny. You'll die and you won't even slow them down.*" A pause, ragged at the edges. "*We hold the bird. We hold the wounded. We wait for One-Two to...*"
+
+Somewhere above them, very high and very far away, something cracked.
+
+It was a single sound, sharp and enormous, like a bullwhip snapped across the whole sky. Teague felt it in his chest. Out on the snowfield, the inner disciple holding the stolen M4 jerked once, straight up, as if someone had pulled a string through the top of his head. Then he fell over and lay in the snow next to Crush One-Two with a hole through the middle of him the size of a fist.
+
+His partner stared at him.
+
+The sky cracked again.
+
+---
+
+**FOUR KILOMETERS SOUTH. A LOW RIDGE.**
+
+---
+
+"Hit," said Cerelli.
+
+She was lying prone along Ashmead's back plate with her rifle across the centurion's shoulder like a bench rest. The rifle was longer than she was. Its muzzle was still smoking in the cold. She worked the bolt with one long, smooth motion, and a casing the size of a finger spun out over the centurion's pauldron and fell hissing into the snow.
+
+"Second hit," she said. "The other one moved. He's fast."
+
+"He's a cultivator," said Wen Shu, from Vasko's shoulder, very quietly. "At that level of True Element he can move faster than sound for a few breaths. Lead him more."
+
+Cerelli led him more.
+
+The sky cracked a third time, and four kilometers away, the second inner disciple, who had been running for the formation's edge on a streak of blue light, came apart in the air.
+
+All along the low ridge, the five squads had come down out of the sky in the space of perhaps twenty seconds.
+
+They had seen the first Osprey go down from twenty kilometers out. Percy had seen it first. He had come out of his daydream all at once, the way a sleeper comes out of a fall, and he had said one word in a voice none of them had heard from him before, and the whole formation had gone to full burn without anyone giving the order.
+
+They had seen the second Osprey go down from twelve.
+
+They had seen the four Marines on the ridge become four cubes from six.
+
+And now the Neodamodes were on the ground, the riders were off and spreading out, and the sky over the snowfield was full of Imperial fire.
+
+"*Psiloi, free fire on anything in a robe outside that boundary,*" Ashmead was saying on the net, his gravel voice gone very calm. "*Mortals are friendlies. I say again, the mortals are friendlies. Anybody puts a round within fifty meters of an American, I will personally feed them to Merek. Heavies, form a shield line on me. Engineers, I want a hole in the ground in ninety seconds.*"
+
+"*Doros, Ardal, Lisandra, you are on the looters,*" said Cerelli, very softly, on a separate channel. "*I have the snake.*"
+
+On the snowfield below the mountain, the cultivators had finally stopped walking.
+
+They had not been afraid of the mortals' iron. They had been right not to be. The mortals' iron had only been iron. But these rounds were different. These came down out of the sky at eleven times the speed of sound with cores of Stygian iron and Celestial bronze and a compound in the jacket that bit into qi the way it bit into a god's ichor. It found the places where a cultivator's body protection gathered and went through them like needles through silk.
+
+Iron Arm Kang took a DMAPFSDS round in the shoulder that had shrugged off a Carl Gustaf, and screamed. It was the first time anyone on the expedition had heard him make a sound. He went down on one knee in the snow with his arm hanging by a strip of meat. The second round missed him by a hand's breadth, because Old Man Hu, still lying on his back two hundred meters away, had reached out lazily with one foot and kicked a chunk of ice into its path.
+
+The ice exploded. Old Man Hu sat up, looked south toward the ridge for the first time, and put the cork back in his gourd.
+
+"*Hm,*" he said. "*Now that is not a mortal.*"
+
+The frost python reared up out of the snowfield with its rider on its head, and Cerelli shot the rider through the left eye from four thousand two hundred meters, and the python, suddenly masterless, screamed and coiled and began to thrash the snowfield to pieces.
+
+---
+
+"Retreat."
+
+On the summit, Grand Elder Mo Tianhe had opened both eyes.
+
+He did not shout. He did not need to. His voice went out through the formation like a ripple across a pond, and every cultivator on the snowfield heard it inside their own heads at once.
+
+"*All disciples and fellow Daoists. Return within the array. Now.*"
+
+They returned.
+
+It was as fast as the coming down had been slow. Swords flared. Clouds gathered. The disciples of the Cloud Chasing Sect simply vanished, flickering back up the mountain on their sect's movement technique in long blurring streaks of pale blue, too quick for any rifle to follow. The Ghost Corpse woman's iron corpses bounded up the slope with their cubes in their arms. The two Myriad Sword swordsmen went up side by side on a single beam of white light. The puppet master's seven wooden puppets came apart and folded into his sleeve, and he went after them. Xue Wuya was the last to go. He stood up slowly from the dead Marine, licked the corner of his mouth, and looked south toward the low ridge for a long moment. Then he took a QVARTUS round in the thigh, and laughed, and went.
+
+Gongsun Jie went up the mountain with the others and did not look back once. He was very pale. Nobody spoke to him about the iron birds. Nobody needed to.
+
+When the last of them was inside the black flags, the Grand Elder lifted the formation's eye in his palm and closed his hand.
+
+Across the whole hill, fifty li of mountain and saddle and valley, the faint shimmering dome thickened. Black ran into white, white into black, and then both colors went out together, and where the shimmer had been there was now a wall. It was dark and matte. It went up into the sky further than anyone could see, and it was smooth and round and seamless, like the shell of an enormous egg. The light that touched it did not come back.
+
+On the low ridge, a Psiloi round struck it dead center, and vanished.
+
+"*Huh,*" said Cerelli.
+
+---
+
+The Neodamodes started digging the moment the wall went up.
+
+The Neodamodes had always been the breaching infantry of the Empire, and in the Empire, the infantry that breached a wall was also the infantry that dug in at the foot of it and held. Every one of them was a combat engineer. Ashmead had been digging holes in places where the earth tried to kill you for thirty-one descents.
+
+"*Charges!*" he bawled. "*Line charges, ninety meters, on my mark! Quillon, you're short! Move it up! Dray, you're the anchor. Vasko, I want your traverse right there on that rise. Mark!*"
+
+They used no shovels. Each heavy carried a reel of charge on its back. The charges were a flat grey ribbon about as wide as a belt, with a dull bronze sheen to it, and the Neodamodes laid the ribbon out across the snow in long straight lines and short zigzags, and lay down, and Ashmead said "*Fire in the hole,*" and the ribbon went off.
+
+It did not explode upward, the way an ordinary charge would have. It went *down*. The detonation ran along the line in a single rolling instant and cut into the permafrost like a hot wire through butter. When the snow settled, there was a trench. It was two meters deep and a meter and a half wide, with clean, vertical, vitrified walls, glazed and glassy where the heat had fused the frozen soil, so that nothing would ever slump into it. It had fire steps cut into it at intervals. It ran ninety meters along the crest of the low ridge, zigzagging so that no single shot could ever rake its whole length. It had taken just under four seconds.
+
+"*Shaped trench charge,*" Merek explained to Beckendorf, who was staring at it. "*Arisawa Heavy Industries. They make them for the Salient. You lay it, you tell it how deep and how wide, and it digs. The zigzag's in the ribbon. It knows where to turn.*"
+
+"It *knows?*"
+
+"*It's smart ribbon.*"
+
+Beckendorf looked at the trench for a long moment.
+
+"Can I have some?" he said.
+
+The charges dug the trenches. The rest, they conjured.
+
+That was what the powerbanks were for. Every Imperial soldier in the five squads carried at least one of them, and the heavies carried a dozen. They were heavy, ugly, grey-cased cells about the size of a brick, with a little window in the side through which you could see something glowing and moving like a slow liquid. *Divine capacitors,* the readout had called them, when Annabeth saw one on Merek's diagnostic. The Neodamodes just called them *batteries.* They had been charged at Camp Half-Blood over two long nights. Apollo had charged some of them, wearily, and Hephaestus had charged more, without being asked, and Ares had walked into the hangar tent on the second night and charged twenty of them in a row and walked out again without saying anything to anybody.
+
+In the land beyond the gods, a demigod or a legacy was a candle in a gale. With a battery in hand, the candle had a hearth behind it.
+
+Iane went first. She cracked a battery against the vitrified lip of the trench like an egg, and drew a rune on the air with her finger, and the rune hung there, glowing violet, for a long second. Then she pushed it down into the frozen ground at her feet, and the ground came up. It came up in a smooth grey dome, packed hard and layered, three meters across, with a firing slit along its northern face and a low door at the rear opening onto the trench. A bunker. She had built it in the time it took to say the word.
+
+"*Neat,*" said Neumond.
+
+"*Shut up and give me another battery.*"
+
+Ione went down the line after her, building more. Straban spent two batteries on the wind and the snow and built a long, curving revetment of blue ice in front of the trench, a meter thick and two high, cold-welded to the vitrified lip. Beckendorf cracked one himself, carefully, the way Merek showed him. When he put his hands on the steel shield plates the Neodamodes had carried in, they went red-hot and soft under his palms, and he welded them into the ice wall as overhead cover in a long, smoking line, with an expression on his face like a kid on Christmas.
+
+Katie Gardner knelt in the bottom of the trench with a battery in her lap and her hands flat on the glassy floor. She had been quiet since the cubes.
+
+"There's nothing alive under here," she said. "There's nothing. It's frozen all the way down."
+
+"*There's seeds,*" said Annabeth, crouching beside her. "There have to be. Seeds can survive permafrost for thousands of years. Somewhere."
+
+Katie closed her eyes.
+
+After a while, very faintly, the floor of the trench under her hands cracked. Something pale came up through the crack. A root. Then another. Then a hundred, all at once, white and thin and fibrous, threading themselves through the walls of the trench like rebar through concrete, binding the vitrified soil together so tightly that nothing short of a direct hit would ever bring it down.
+
+"Thirty-two thousand years old," Katie whispered. Her eyes were wet. "There's a campion down here that's been asleep for thirty-two thousand years. And it said yes."
+
+---
+
+Wen Shu had not built anything.
+
+She was standing on the parapet of the trench with her helmet off in the killing cold, looking at the black wall. Next to her stood Khay, the Egyptian-blooded Trophimos, with his arms folded and his eyes narrowed, and Hrafn, leaning on his axe. Neumond crouched at their feet with his helmet visor flipped down and both wings half-spread, humming with sensor light.
+
+"*Talk to me,*" said Ashmead.
+
+"It's a closed Earthly Fiend formation," Wen Shu said. "Seventy-two nodes. Yin and yang locked against each other in a ring. You can't break it from outside by hitting it. Hitting it gives it more to lock." She pointed with her chin. "Every node feeds the two on either side. The eye sits in the middle, on the summit, and the man holding the eye can feel every node at once. The textbooks at the Academy say you need a formation master at the same level to take one apart. And I am nowhere near the same level."
+
+"*So we can't get in.*"
+
+"I didn't say that." Wen Shu looked over at Neumond. "Tell him."
+
+Neumond was grinning behind his visor. Everyone could hear it.
+
+"*It's a radar,*" he said.
+
+There was a pause on the net.
+
+"*Say again?*" said Ashmead.
+
+"*I mean, it isn't a radar. Obviously. But it acts like one.*" Neumond's wings flexed. "*Their qi doesn't just sit there. It cycles. It goes round the ring, node to node, about once every eleven seconds. Every time it passes a node, that node gets strong. Everywhere else, for a beat, it's a little weaker. It's got a scan cycle. It's got a duty cycle. It's got a dwell time. It's got,*" and he sounded delighted, "*a sidelobe.*"
+
+"*English, airboy's friend.*"
+
+"*It's an array with a rotating beam, Centurion. We've been beating those for fourteen thousand years.*"
+
+The Empire called its answer Sino Anti-Divinity Countermeasures. The Neodamodes called it *Sino Anti-Div*, because they had to say it a lot. It had been born, like most of the Empire's methods of war, at Alaska Hill, on this mountain, in a war that had not happened yet. A young AI and a team of Athena's analysts and one exhausted son of Poseidon had stood in a cooling tower and watched cultivators lock the ground with flags and discs. They had realized that a formation was only a sensor net built out of qi instead of electrons, and that it could be fooled in all the same ways. Over fourteen thousand years and a thousand wars with the cultivator houses of the Expansion, the Empire had refined that insight into a kit of tools that could fit in a soldier's pack.
+
+The kit came out of the heavies' cargo racks now, piece by piece.
+
+There were the spikes first. Each was as long as a man's arm and made of a dull, dark-gold metal that drank the light. Their bronze caps were etched with circuitry that Annabeth thought looked like the inside of a microchip. The Neodamodes drove the spikes into the snow in two neat rows, forty meters apart, angled toward one particular stretch of the black wall between two nodes that Neumond had picked.
+
+"*Qi sinks,*" Merek told Beckendorf. "*Gold and Stygian iron. Gold drinks qi. The cultivators found that out about this mountain, I bet. We found it out about this mountain first. Or we will.*" He shrugged, massively. "*Time's weird.*"
+
+Then the emitters. They were small, flat, black boxes, which the heavies set up on tripods behind the spikes, and which began, when Neumond switched them on, to hum. It was a very faint hum, below hearing.
+
+"*Deception emitter,*" Neumond said happily. "*It sings back at the formation in its own frequency, a beat behind. Mimics a node. The ring starts handing off qi to a node that isn't there. And while it's busy doing that...*"
+
+"*The real node next to it starves,*" said Wen Shu.
+
+"*For about four seconds per cycle. Every eleven seconds.*"
+
+"*And the hole?*" said Ashmead.
+
+Neumond turned his helmet toward Khay.
+
+The Egyptian-blooded Trophimos unfolded his arms. He took a battery out of his belt, cracked it in his left hand, and lifted his right. Blue-gold hieroglyphs flowed out of his fingertips into the air in long, careful lines, the old signs, the eye and the reed and the knot of Isis, burning against the black.
+
+"*Every lock,*" said Khay, "*is only a word for* no. *And there is always an older word for* yes."
+
+Neumond counted down the cycle.
+
+"*Three. Two. One. Mark.*"
+
+The emitters screamed in their silent off-key choir. The spikes flared dark gold. And Khay threw his hieroglyphs at the wall.
+
+For four seconds, there was a hole in the formation.
+
+It was not big. It was perhaps the size of a door. Black and white light boiled at its edges like water at the rim of a whirlpool, and through it, for four seconds, everyone on the low ridge could see the snowy saddle beyond, and a black flag on an iron pole sticking out of the snow, and the slope of the mountain rising behind it. Then the qi of the ring came back around, and the hole snapped shut with a sound like a thrown bolt.
+
+"*Four seconds,*" said Neumond. "*Every eleven. On a door-sized hole.*" He sat back on his heels. "*That's plenty.*"
+
+"*That's plenty,*" agreed Ashmead.
+
+---
+
+Nobody rushed the hole.
+
+Neumond wanted to. Everyone could tell. He had his wings half open on the parapet like a hawk on a glove, and Straban had drifted a meter off the snow beside him without seeming to notice. But Ashmead had been through a great many holes in a great many walls. He knew the first thing anyone put through one was the thing that got shot.
+
+"*Heavies to the front,*" he said. "*Shield line on the breach. Psiloi behind us. Everybody else stays in the ditch until I say. Nobody goes inside that fist to play hero.*"
+
+"*Centurion...*" Neumond began.
+
+"*Until I say, buddy.*"
+
+The next time the hole opened, the four Neodamode heavies were standing in front of it.
+
+They had walked up to the black wall in a tight line while the ring cycled, Ashmead in the center, Quillon and Dray on either side of him and Vasko on the end. When the doorway boiled open, they stepped into it shoulder to shoulder. It was not wide enough for four. They made it wide enough. Their armored shoulders scraped the boiling edges of the hole and sparked, and the plating on Dray's right arm smoked where the formation's qi licked it, but they planted their feet in the snow on the far side of the line and stood there. Three meters tall, scarred at every joint and locked together, they were a wall of their own.
+
+When the ring came round again four seconds later, the hole tried to close.
+
+It could not close through them. The black-and-white light ground against their armor like a millstone against a stone it couldn't crack. It shrieked and strained and slid back, and the doorway stayed open around four Neodamodes kneeling in the snow, as long as they did not move.
+
+"*Holding,*" said Ashmead. His voice was strained. "*Ungodly lot of pressure on the plates. Do it now, Cerelli.*"
+
+Cerelli was already lying flat on the snow behind his legs, her rifle barrel laid across the back of his calf like a bench rest. Doros was behind Quillon. Lisandra was behind Dray, still chewing. Ardal was behind Vasko. Through the gaps between the armored bodies they could see the whole of the eastern saddle, and the slope above it, and the cultivators on it.
+
+The cultivators had seen the hole open. They came to close it.
+
+It was the first time in the whole battle that the cultivators had come to a fight in a hurry. A dozen of the Pavilion's inner disciples came down the saddle on their swords in a rush of blue light, with two core disciples behind them, already shaping sword qi, and one of the poison sisters in green, laughing. Sword qi hit the shield line in long crescents of light. It hit the heavies' chest plates and pauldrons and helmets and burst there in showers of sparks, and the heavies took it. Quillon grunted. Dray swore. Vasko said nothing at all.
+
+The four rifles behind them spoke.
+
+They did not fire volleys. They took turns, each marksman picking out a target through her own gap in the wall and working the bolt between shots with a smooth, unhurried rhythm. It was the rhythm Cerelli used on the range on Mars, the one she had taught every Psilos under her command. Every shot was a man or a woman in a robe going down in the snow. The sword qi came in faster, desperate now, and the heavies leaned into it. The rounds kept going out through the gaps, one at a time.
+
+Lisandra laughed. It was a short, ugly sound around whatever she was chewing.
+
+"*Duck hunting,*" she said.
+
+The inner disciples broke first. They had never in their lives been on the wrong end of something they could not see coming, and they did not understand what was killing them. They turned on their swords and fled back up the saddle. The core disciples behind them lasted a few seconds longer, out of pride. The poison sister in green lasted until Cerelli shot her through the throat.
+
+And then the saddle was empty except for the bodies.
+
+Ashmead stood up out of the shield line, slowly, with smoke rising off his shoulder plates. The hole held around him. He looked back over his shoulder, toward the trench, toward the Ekdromoi and the Trophimoi waiting along the parapet with their batteries in their hands and their faces lit by the boiling light. His helmet tipped, very slightly.
+
+"*Right, then,*" said the centurion. "*Time to play the piper.*"
+
+The SP forces went in.
+
+They did not go in to fight a battle. They went in, as Ashmead put it on the net, *to ruin the old man's afternoon.* Each of the Ekdromoi and Trophimoi had their own way of doing it, and they had been doing it, against things worse than cultivators, for longer than most of them had been alive.
+
+Straban went first. He went through the gap between Ashmead and Quillon on the wind like a thrown knife, and was over the saddle and gone in a heartbeat. Thirty seconds later, a blizzard rose up out of nowhere over the northern slope inside the formation, a howling, horizontal, white-out storm that buried four of the Pavilion's nodes in two meters of snow and drove the inner disciples guarding them to their knees. The cultivators could have stopped it easily if they had known where the wind was coming from. They didn't. Straban was lying on his back on a drift a kilometer away inside the formation, with his arms folded, making weather.
+
+The twins went through together, and by the time the hole closed behind them, Iane had already drawn three runes on the inside of the wall and Ione had drawn three more. Each rune was a tiny gate. Each gate opened into one of the others. And for the next ten minutes, every cultivator who went looking for them found a pair of Hecate legacies who stepped through one glowing doorway and came out of another one two hundred meters away, firing QVARTUS rounds into their backs.
+
+Neumond did not go through at all. He did not need to. He sat on the parapet of the trench with his wings spread and his visor down and talked to the formation. Every eleven seconds, as the cycle came round, he whispered into it with the deception emitters. He sent false nodes. He sent echoes. He sent, at one point, a perfect copy of the Grand Elder's own qi signature, recorded off the eye on a previous cycle and played back on a node at the far side of the ring, so that for one confusing breath the formation thought it had two masters.
+
+"*What was that?*" Ashmead asked him.
+
+"*Spoof.*" Neumond's grin was audible again. "*Replay attack. The oldest trick there is. They taught us it in basic.*"
+
+"*Who invented that?*"
+
+"*They did,*" said Neumond, and pointed his chin at the black wall. "*Fourteen thousand years ago. On this mountain. Against the guy who taught it to us.*"
+
+Hrafn went through on the third cycle with a raven on his shoulder and his runic axe alight. He found a node on the eastern saddle, and the six Pavilion disciples guarding it, and he sang to them. It was a low, slow, rolling song in a language older than Norse. The six disciples sat down in the snow one after another and fell into a deep, dreamless sleep. Then Hrafn tore their flag up out of the ice with his bare hands, stuck it under his arm and walked back out through the next hole with it, humming.
+
+Xochi went through on the fourth. Nobody was ever quite sure what she did in there. But the whole western slope of the formation lit up blue for a while, and some of the screaming lasted a long time.
+
+And all along the line, every eleven seconds, Cerelli and her Psiloi sent a round through the hole.
+
+They didn't aim at anyone in particular. They had to aim at something four kilometers away through a four-second doorway that opened and closed on a clock. So they fired at the summit, at the eye, at the purple cushion and the old man sitting on it. Most of the rounds went wide. Some didn't. None of them killed him. But every single one of them made him *move*.
+
+---
+
+On the summit, Grand Elder Mo Tianhe of the Heaven Sealing Pavilion had been sitting very still for a quarter of an hour. His face was calm. His beard was blowing in the wind of the storm that should not have been there.
+
+There was a thin line of blood running down his left cheek where a Psiloi round had come within a hand's width of his eye before he turned it aside with a flick of his sleeve. The sleeve was gone. So was a good part of his outer robe. Under it, his skin was smoking where the strange metal in the rounds had bitten through his protective qi.
+
+The formation's eye trembled in his palm. It had trembled every eleven seconds for a quarter of an hour. Every time it trembled, something came through.
+
+"Fellow Daoist Mo," said Elder Su Lianyue, very quietly, beside him. She had stopped smiling a long time ago. "How many nodes have we lost?"
+
+"Four buried. Two seized. One taken." He did not open his eyes. "Someone is singing to my formation, Elder Su. Someone is singing to it in its own voice, and it is listening to them instead of to me."
+
+"Who?"
+
+"I do not know." The Grand Elder's jaw tightened, very slightly. "In nine hundred years, no one has ever done this to a formation of the Heaven Sealing Pavilion. No one has ever even *tried*. Our formations are a closed fist. They have opened my fist like a child's hand. Every eleven breaths." He opened his eyes, finally, and looked south, toward the low ridge, toward the black wall and whatever was waiting on the other side of it. "They are not cultivators. They are not gods. They are not mortals. And they know this mountain better than I do."
+
+Lu Chen, kneeling a few paces away in the snow with blood drying on his chin, looked up.
+
+"Grand Elder," he said quietly. "This disciple has a thought."
+
+"Speak."
+
+"This disciple thinks they have fought us before." Lu Chen swallowed. "Many times. And won."
+
+Nobody on the summit answered him.
+
+Far off, through the storm, on the far side of the black wall, the sky cracked again.
+
+---
+
+**THE WRECK OF CRUSH ONE-ONE**
+
+---
+
+Gunnery Sergeant Ray Teague had seen a lot of things in nineteen years. He had never, until today, watched an enemy line break and run up a mountain without a single Marine having hurt it.
+
+He had watched it from behind the burning tail of his own aircraft, with a dead Marine at his feet and a live one in his arms, and he had watched what came after. The things that came down out of the sky to the south, five of them, huge and gold and grey and moving like tanks with wings. The people riding them. The ditch that dug itself in four seconds. The domes that came up out of the ground. The wall of blue ice. The black wall, beyond it, that went up into the sky forever.
+
+And now one of the huge gold things was walking across the snowfield toward him, and there was a boy walking next to it.
+
+The boy was maybe sixteen. He had black hair and a jacket nowhere near warm enough for the Brooks Range, and frozen blood under his nose, and his eyes were a strange sea-green color. He walked across the snow like it was holding him up. Every step, the snow on either side of him rose a little, in long low ridges, like bow waves. They went ahead of him toward the wreck, and when they reached it they rose up all at once into a curving wall of packed snow two meters high. It ran right around Crush One-One and all the Marines and wounded sheltering behind it, a wall between them and the mountain.
+
+He stopped in front of Teague. He looked down at the dead Marine, and at the one Teague was holding, who was a nineteen-year-old lance corporal named Ruiz with a bad wound in his leg and his face grey with shock.
+
+"Hi," the boy said quietly. "I'm sorry. We were too far out. We saw your helicopter go down and we came as fast as we could."
+
+Teague looked at him for a long moment.
+
+He looked at the thing in gold armor standing beside him. It was eight feet tall, with a dent in its chest plate the size of a dinner plate and red lidar light in its eyes. Clinging to its shoulders and back were three teenagers in winter jackets. One of them, a blond girl in a Yankees cap, was already climbing down and pulling a first-aid kit out of her coat.
+
+He looked back at the boy.
+
+"Who," said Gunnery Sergeant Ray Teague, "the fuck are you people."
+
+The boy seemed to think about it.
+
+"The cavalry," he said. "Probably." He knelt down in the snow beside Ruiz and put a hand on the wounded leg. Water came out of the snow around it, a lot of it, and wrapped around the wound, and the bleeding slowed. "Who's in charge?"
+
+"*Skipper's over there,*" Teague said. He nodded toward the nose of the aircraft, where Captain Hale was sitting against the fuselage with a corpsman working on his scalp and the radio handset still in his hand. Hale was looking at them. He had been looking at them for some time. "Captain Hale. Lima Company."
+
+"Okay." The boy stood up. "Can you take me to him?"
+
+Teague looked at the boy. He looked at the gold giant behind him, who had gone down on one knee in the snow with a crunch of servos so that the girl in the cap could get to the next wounded Marine. He looked south, at the trench line, at the domes and the ice wall and the strange soldiers moving along it with their impossible rifles. He looked north, at the black wall, behind which an entire army in robes was hiding from those soldiers.
+
+Then he looked at the four steaming cubes that had been the lead fire team of Second Platoon, which the old woman's iron corpses had dropped in the snow when they ran.
+
+"Yeah," he said, and got to his feet. "Yeah, I can take you to him."
+
+Behind him, on the low ridge, the Psiloi fired through the hole again, right on the eleven-second mark.
+
+---
