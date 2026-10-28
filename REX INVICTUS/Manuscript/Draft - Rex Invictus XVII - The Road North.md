@@ -158,11 +158,7 @@ It went to the edge of the world in every direction, white and broken, pressure 
 
 "I *know* that. It just feels weird. I've been feeling plants under me since Long Island. Spruce, birch, moss, lichen, all the way up. It's like somebody keeps talking to me under the floor, and then they just stopped." Katie's arms tightened on the shoulder rail. "How are you guys even doing this? Doesn't the cold get into the suits?"
 
-"Everything gets into the suit," Merek said. "The suit's just a hat with ideas."
-
-"That's not how hats work."
-
-"That's how this one works."
+"Everything gets into the suit," Merek said. "My baby's got more gizmos than some ships."
 
 On the other shoulder, Beckendorf had his gloved hand pressed flat on a seam in Merek's pauldron, feeling the actuators move beneath the plating. He had been doing it for four hours. "These aren't hydraulic," he said, not for the first time.
 
@@ -178,7 +174,95 @@ Merek thought about it. "From money, mostly."
 
 Beckendorf laughed out loud. It was the first time anyone had heard him laugh since the pyre.
 
-Annabeth had not been listening. She had the tablet on her forearm angled toward her face, scrolling through the maps Minerva had sent to it before dawn. Topographic sheets of the Brooks Range. Old USGS glacial surveys. A thermal plot from a satellite pass the night before, which showed a cluster of very warm bodies sitting on a mountainside where it was forty-six below. And a single overlay, in a style she didn't recognize, that Minerva had marked with a note: *From my archive. Fourteen thousand years old, and eleven years in your future. Use it carefully.*
+Annabeth had not been listening. For the last ten minutes she had been looking at a small hexagonal port in the plating between Merek's shoulder blades, half hidden under a flap of armored mesh, about a hand's width from her knee. It had a bronze collar and six gold contacts arranged in a ring. She had looked at it for long enough to decide that it was almost certainly a maintenance interface. Then she had looked at the cable that came with her tablet, which Beckendorf had machined for her on Tuesday night out of a scavenged Imperial data lead and a USB-C plug, and which had a six-pin bronze collar on the far end.
+
+It fit perfectly. She had suspected it would.
+
+She pushed it in.
+
+Merek made a noise.
+
+It was a very small, very high noise, like a kettle that had just been surprised. It did not sound like it could have come out of an eight-foot Roman legacy in gold power armor. Every head on the squad net turned at once.
+
+Then the suit dropped out from under them.
+
+For one long, horrible second, the grav-stamps simply stopped. The pulse in Percy's teeth from across the formation stuttered and died, and Merek's suit fell like a dropped anvil, with three screaming demigods attached to it. Katie's scream went up an octave. Beckendorf grabbed the pauldron rail with both hands. The armor's outline shimmered and went *visible*, all at once, gold and bronze and dented against the white sky, flickering in and out like a bad television signal. A thruster on the left hip coughed out a jet of blue fire, then another one on the right, out of rhythm, and the suit began to tumble.
+
+"*Merek!*" Ashmead roared on the net. "*Five-Freight, report!*"
+
+Merek did not report. Merek was busy.
+
+His arms snapped out wide. His back arched. Somewhere inside the plating, something whined up through three octaves and caught, and the grav-stamps hit the ice below with a single enormous *thud* that Percy felt from fifty meters away. The tumble stopped. The suit lurched, steadied, sputtered once more and then climbed back up into the wedge on a ragged blue jet of thrust. The shimmer closed back over the armor like water over a stone, and Merek was gone again from every sky but theirs.
+
+The whole thing had taken perhaps four seconds.
+
+There was a silence on the squad net that lasted considerably longer.
+
+"Lady Chase," Merek said at last. His voice was very calm and very faint, and it sounded the way a man sounds after he has been punched in the stomach and is trying hard not to show it. "High-Lord. Grand Architect. With the greatest possible respect."
+
+"Yes," said Annabeth, in a small voice. She was holding the tablet very still.
+
+"Please warn me." He breathed out. "Next time. That port goes into my spine. The suit is wired into my nervous system. When you open a line into the suit, you open a line into me. It felt like you stuck a fork in my brain stem and then asked it a question."
+
+"I'm sorry," Annabeth said. She meant it. Her face had gone red under the wool hat, all the way to the ears. "I'm really, really sorry. I thought it was a diagnostic port."
+
+"It is a diagnostic port."
+
+"I thought it was a *passive* diagnostic port."
+
+"It's the *only* diagnostic port." Merek's helmet tipped forward a fraction, as if he was looking down at the ice and thinking about how close it had come. "It's fine. I've had worse. Somebody stuck a QVARTUS round through my knee once. That was worse." A pause. "Not by a lot."
+
+"*Five-Freight,*" said Ashmead, with enormous patience, "*are you or are you not still in my formation?*"
+
+"*Five-Freight is in formation,*" Merek said. "*Minor systems event. The Architect was reading my mail.*"
+
+On the right shoulder, Katie Gardner had both arms locked around the rail and her eyes squeezed shut. "I hate all of you," she said.
+
+"Yeah," said Beckendorf, who had not let go either. "That's fair."
+
+Annabeth looked down at the tablet.
+
+It was full.
+
+The cable had not crashed. It had connected, and in the four seconds it took Merek to wrestle his suit back into the sky, the suit had very helpfully tried to tell her everything about itself. Pages of it were still scrolling up the screen, in a dense Imperial Greek that her dyslexia should have scrambled into soup and somehow didn't. Diagnostic trees. Power curves. Thermal maps. A wireframe of the suit with every subsystem lit up in a different color.
+
+She read it once quickly, and then a second time slowly, and by the end of the second time she had forgotten to be embarrassed.
+
+The first thing she found was the veil.
+
+It was not a cloak in any sense she understood. There was no camouflage layer, nothing that bent light. Instead the suit was doing something to its own emissions, every one of them, constantly, thousands of times a second. It was swallowing its own heat and pushing it out in places and directions where nothing would be listening. It was holding its radio silence so hard that the suit's internal links ran on something the readout called *tachyonic whisper*. It was shaping its own radar return to look like snow, like air, like nothing. The listing of what it was hiding from ran three screens long. Radar of every band she had heard of and several she hadn't. Infrared. Signals intercept. Electronic intelligence. Acoustic. Seismic. Satellite imaging in visible and multispectral light. And at the bottom, in a separate category, a line that Minerva translated for her in a small pop-up note: *Pre-Expansion detection systems (primitive). Status: fully masked.*
+
+Primitive. Every radar in North America. Every spy satellite. Every listening plane the United States owned. *Primitive.*
+
+And the mask did not stop at the armor. The suit had drawn a bubble around itself and everything touching it, out to about two meters, and inside that bubble the readout listed four bodies. One heavy, three light. Merek. Beckendorf. Katie. Her.
+
+Annabeth looked down at herself, as if she would be able to see it.
+
+The second thing she found was the power.
+
+She had to read the number three times. Then she checked the units. Then she did the conversion in her head, twice, and then on the tablet's calculator, because she did not believe her head. The reactor in Merek's back, the little thing she had been leaning against for four hours, was putting out more power at a cruise than the nuclear plant at Indian Point. A lot more. Most of it was going into the grav-stamps and the veil, and the rest of it was going somewhere the readout labeled *reserve*, which she decided not to think about yet.
+
+And the third thing she found was the reason she was warm.
+
+She had wondered about it since Quebec. It was forty below up here, with the wind of their passage on top of that, and she should have been frozen solid through every layer she owned. Instead, the back plate under her had been pleasantly, mysteriously warm for hours, like a radiator on a winter morning. Now, on the tablet, she watched the suit's heat sinks on the thermal map. They were *moving*. Thin plates of some dark alloy were sliding beneath the outer armor, slowly and continuously, like the gills of a fish. They rearranged themselves in real time to dump the reactor's waste heat into exactly the places where its three passengers were touching it. Under her knees. Along her back. Under Katie's arms on the shoulder rail. Up through the pauldron under Beckendorf's glove.
+
+The suit had been keeping them alive the whole way north, and it hadn't told anyone.
+
+"Merek," she said slowly. "Your suit's been heating us."
+
+"Mm."
+
+"On purpose."
+
+"It's got a passenger protocol," Merek said. "Neodamodes carry wounded sometimes. Salient's cold." A pause. "Also, I asked it to."
+
+Annabeth didn't say anything for a while.
+
+"Beckendorf," she said finally. "Come look at this."
+
+"Not right now," said Beckendorf, who still hadn't let go of the rail. "Maybe never."
+
+Annabeth unplugged the cable, very gently, and this time she said "Unplugging" first. Merek said "Thank you" with real feeling. Then she sat back against the warm plate, opened the maps Minerva had sent to the tablet before dawn, and tried to pay attention to them instead of to the number still sitting in her head. Topographic sheets of the Brooks Range. Old USGS glacial surveys. A thermal plot from a satellite pass the night before, which showed a cluster of very warm bodies sitting on a mountainside where it was forty-six below. And a single overlay, in a style she didn't recognize, that Minerva had marked with a note: *From my archive. Fourteen thousand years old, and eleven years in your future. Use it carefully.*
 
 The overlay was a fortress.
 
