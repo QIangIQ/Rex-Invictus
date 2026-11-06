@@ -1,4 +1,4 @@
-[[BML/P07CT-C/12]]
+BML/P07CT-C/12
 12-Cell Vertical Missile Launcher/Stationary Laser Turret Deployer
 
 [[ME-E-145 ETSUJIN ]]

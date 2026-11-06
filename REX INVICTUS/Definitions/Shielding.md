@@ -1,3 +1,3 @@
 [[Warp Shielding]]
-[[Kinetic Shielding]]
+[[Energy Shielding|Kinetic Shielding]]
 [[Energy Shielding]]

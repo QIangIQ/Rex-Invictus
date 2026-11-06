@@ -1,1 +1,1 @@
-alternate, and more common ceremonial name for [[Voss I]]
+alternate, and more common ceremonial name for [[Voss Primaris|Voss I]]

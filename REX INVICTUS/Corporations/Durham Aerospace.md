@@ -1,1 +1,1 @@
-[[Tachyonics]] and [[Protonic]] [[Broadside Weapons]] Manufacturers
+[[Hadrian Tachyonics|Tachyonics]] and [[Ionizing Radiation|Protonic]] [[Broadside Weapons]] Manufacturers

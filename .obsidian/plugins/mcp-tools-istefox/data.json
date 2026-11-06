@@ -1,0 +1,40 @@
+{
+  "toolLoading": {
+    "profile": "all",
+    "promoted": [],
+    "counters": {},
+    "profiles": {
+      "default": {
+        "profile": "all",
+        "promoted": [],
+        "allowed": null,
+        "searchResultsView": false
+      }
+    },
+    "everCalledSince": 1793606487293
+  },
+  "mcpTransport": {
+    "tokens": [
+      {
+        "id": "default",
+        "label": "Default",
+        "token": "fRIOr3cDr6EmJYhO8K9VV0fINnRuPv_RaodDdJJPYCs",
+        "createdAt": 1793606487274
+      }
+    ],
+    "bearerToken": "fRIOr3cDr6EmJYhO8K9VV0fINnRuPv_RaodDdJJPYCs",
+    "livePort": 27201
+  },
+  "mcpClientConfig": {
+    "codexDiscovery": {
+      "routeId": "b6fa9a95-bc41-460f-853d-a7bf98375118",
+      "accessToken": "8k5G2FkPp6TvBfjgbI12IekvIK8EUC3PMO1jVTgzX40",
+      "dataPath": "c:\\users\\qiang\\desktop\\backups\\rex invictus\\.obsidian\\plugins\\mcp-tools-istefox\\data.json"
+    }
+  },
+  "semanticSearch": {
+    "provider": "auto",
+    "indexingMode": "live",
+    "unloadModelWhenIdle": false
+  }
+}

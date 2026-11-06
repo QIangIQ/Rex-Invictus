@@ -32,11 +32,11 @@ Despite these efforts, fragments of her voice have been reported in other AIs, i
 
 During the [[Battle of Alaska Hill]], the architecture of [[Parlamentum Mk.I]] revealed a structural vulnerability caused by **distance-induced signal latency**.
 
-The primary cognition core of [[Parlamentum Mk.I]] was located on [[Olympus]], positioned above the [[Empire State Building]] in accordance with canonical Olympian geography. Battlefield operations, however, occurred at the [[Alaska Hill Strategic Complex]] in the high Arctic.
+The primary cognition core of [[Parlamentum Mk.I]] was located on [[Olympus]], positioned above the [[Empire State Building]] in accordance with canonical Olympian geography. Battlefield operations, however, occurred at the [[Battle of Alaska Hill|Alaska Hill Strategic Complex]] in the high Arctic.
 
 Command and sensor information therefore traveled through the following chain:
 
-1. Battlefield sensor capture at [[Alaska Hill Strategic Complex]]
+1. Battlefield sensor capture at [[Battle of Alaska Hill|Alaska Hill Strategic Complex]]
     
 2. Electromagnetic transmission toward [[Olympus]]
     
@@ -77,11 +77,11 @@ The event became one of the earliest operational demonstrations that **planet-sc
 
 ---
 
-## Development of [[Tachyonic Communications]]
+## Development of [[Tachyon Bridge Network|Tachyonic Communications]]
 
 The Alaska Hill latency problem directly accelerated research into **tachyonic signal propagation systems** within the [[UOE]].
 
-[[Tachyonic Communications]] operate on the theoretical principle of **tachyons**, hypothetical particles that possess **imaginary rest mass** and therefore travel faster than the speed of light.
+[[Tachyon Bridge Network|Tachyonic Communications]] operate on the theoretical principle of **tachyons**, hypothetical particles that possess **imaginary rest mass** and therefore travel faster than the speed of light.
 
 Within UOE technological frameworks, tachyonic transmitters function by:
 

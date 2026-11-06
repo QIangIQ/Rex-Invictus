@@ -43,7 +43,7 @@ Primary Components:
 
 ---
 
-## [[Shield (physical)]]
+## [[Melee|Shield (physical)]]
 
 Layered mechanical barrier systems designed for sustained frontal absorption, kinetic dispersion, and edge stabilization under heavy ordnance impact.
 
@@ -75,7 +75,7 @@ Primary Components:
 
 - [[Shock-Triggered Explosive Plate Matrices]]
     
-- [[Fragment Mitigation Lattice Structures]]
+- Fragment Mitigation Lattice Structures
     
 - [[Anti-Penetrator Sacrificial Modules]]
     
@@ -151,7 +151,7 @@ Self-propelled guided missile platform for long-range armored target neutralizat
 
 ---
 
-## [[Divine Material Armor-Piercing (DMAP)]]
+## [[Divine Material Ammunition#DMAP|Divine Material Armor-Piercing (DMAP)]]
 
 Divine-integrated penetrator utilizing [[Divine-Metallurgical Binding Impurities (DMBI)]] to embed divine-phase particulates for anti-pantheonic lethality and regenerative suppression.
 
@@ -166,7 +166,7 @@ Divine-integrated penetrator utilizing [[Divine-Metallurgical Binding Impurities
 
 ---
 
-## [[Divine Material Armor-Piercing, Lead-Core (DMAPL)]]
+## [[Divine Material Ammunition#DMAPL|Divine Material Armor-Piercing, Lead-Core (DMAPL)]]
 
 Dense-core divine-integrated projectile balancing kinetic penetration with metaphysical phase interaction. Commonly deployed in mid-tier Titan cannons.
 
@@ -181,7 +181,7 @@ Dense-core divine-integrated projectile balancing kinetic penetration with metap
 
 ---
 
-## [[Divine Material High-Explosive (DMHE)]]
+## [[Divine Material Ammunition#DMHE|Divine Material High-Explosive (DMHE)]]
 
 High-explosive munition enhanced with divine-phase particulates for blast fragmentation combined with anti-reconstitution disruption.
 

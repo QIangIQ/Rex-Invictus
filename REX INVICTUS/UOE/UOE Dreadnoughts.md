@@ -37,7 +37,7 @@ Pilot: Theophanes Leonidas - [Demigod of Athena]
 UOE Voidbringer:
 Pilot: Iason Dimitrios - [Demigod of Nikos]
 UOE Radiant Dawn:
-Pilot: [[Elektra Callidora]] - [[Demigod of Aphrodite]]
+Pilot: [[Elektra Callidora]] - [[Demigod|Demigod of Aphrodite]]
 UOE Divine Blade
 Pilot: 
 UOE Fury's Embrace
@@ -56,7 +56,7 @@ UOE Warbringer Fury
 UOE Solaris Retribution
 UOE Nova Fury
 UOE Sovereign's Glory
-[[Stephanie Callidora]] - Helion Bulwark of Aphrodite
+[[Bulwarks and Spears of Aphrodite|Stephanie Callidora]] - Helion Bulwark of Aphrodite
 UOE Astral Conquest
 UOE Voidstar Sentinel
 UOE Thunderous Oath

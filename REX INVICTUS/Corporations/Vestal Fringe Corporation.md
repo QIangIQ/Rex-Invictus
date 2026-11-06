@@ -98,7 +98,7 @@ While powers such as [[Athena]] centralized knowledge through the [[Répertoire 
 
 In frontier records, Vestal convoys often arrived after the flags had been planted but before a world was truly habitable as a society. It became common to say that fleets could conquer a planet, but only Vestal could teach it how to live.
 
-During the same early-expansion years, as [[Demeter]] cultivated [[The Verdant Expanse]] and neutral [[Farm-Planets]] proliferated in 3046.03.2.5, Vestal Fringe emerged as a major civil partner for agricultural and humanitarian stabilization. Its people were not conquerors, not frontier heroes, and not glamorous strategists. They built kitchens, field hospitals, nursery domes, mobile shrines, care barracks, and support shelters. That quiet work scaled astonishingly well across interstellar distance.
+During the same early-expansion years, as [[Demeter]] cultivated [[The Verdant Expanse]] and neutral [[The Great Expansion|Farm-Planets]] proliferated in 3046.03.2.5, Vestal Fringe emerged as a major civil partner for agricultural and humanitarian stabilization. Its people were not conquerors, not frontier heroes, and not glamorous strategists. They built kitchens, field hospitals, nursery domes, mobile shrines, care barracks, and support shelters. That quiet work scaled astonishingly well across interstellar distance.
 
 ---
 
@@ -125,7 +125,7 @@ Its primary domains expanded to include:
 
 The corporation’s interpretation of “wellness” became famously broad. It did not apply only to humans. Vestal doctrine held that stable life systems required care toward:
 
-- [[Nature]]
+- Nature
     
 - orbital and void ecologies
     

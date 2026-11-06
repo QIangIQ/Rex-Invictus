@@ -1,68 +1,132 @@
 {
   "recentFiles": [
     {
-      "basename": "Divine Being 'The One Upon Swift Wings'",
-      "path": "REX INVICTUS/Divine Being/Divine Being 'The One Upon Swift Wings'.md"
+      "basename": "B03_AtRep_Repertoire_du_Savoir_Athenien",
+      "path": "REX INVICTUS/Lore Reference/Merged Profiles/B - Minerva and AtRep/B03_AtRep_Repertoire_du_Savoir_Athenien.md"
+    },
+    {
+      "basename": "A02_Percy_Reincarnated_Rex",
+      "path": "REX INVICTUS/Lore Reference/Merged Profiles/A - Percy Versions/A02_Percy_Reincarnated_Rex.md"
+    },
+    {
+      "basename": "99_Minor_Characters_Compendium",
+      "path": "REX INVICTUS/Lore Reference/99_Minor_Characters_Compendium.md"
+    },
+    {
+      "basename": "00_START_HERE_Version_Guide_and_World_Primer",
+      "path": "REX INVICTUS/Lore Reference/00_START_HERE_Version_Guide_and_World_Primer.md"
+    },
+    {
+      "basename": "Dragons Nest Pantheon",
+      "path": "REX INVICTUS/Divine Being/Pantheons/Dragons Nest Pantheon.md"
+    },
+    {
+      "basename": "Drachamae",
+      "path": "REX INVICTUS/Definitions/Drachamae.md"
+    },
+    {
+      "basename": "Divine Being 'Owl of Unending Flight'",
+      "path": "REX INVICTUS/Divine Being/Divine Being 'Owl of Unending Flight'.md"
     },
     {
       "basename": "Alternate Divine Being 'Blessed Symphony'",
       "path": "REX INVICTUS/Divine Being/Alternate Divine Being 'Blessed Symphony'.md"
     },
     {
-      "basename": "Divine-Metallurgical Binding Impurities (DMBI)",
-      "path": "Divine-Metallurgical Binding Impurities (DMBI).md"
+      "basename": "Parzival",
+      "path": "REX INVICTUS/Law & Doctrine/Parzival.md"
     },
     {
-      "basename": "The Citadel",
-      "path": "The Citadel.md"
+      "basename": "Legum Magicae (XVIII-Alpha)",
+      "path": "REX INVICTUS/Law & Doctrine/Legum Magicae (XVIII-Alpha).md"
     },
     {
-      "basename": "Battle of Alaska Hill",
-      "path": "Battle of Alaska Hill.md"
+      "basename": "Hachiman's Vengeance Pattern",
+      "path": "Hachiman's Vengeance Pattern.md"
     },
     {
-      "basename": "SECTIONS TO ADD (WIP)",
-      "path": "ASSETS/SECTIONS TO ADD (WIP).md"
+      "basename": "War of Princes",
+      "path": "REX INVICTUS/Events & Battles/War of Princes.md"
     },
     {
-      "basename": "IDEAS TO ADD (WIP)",
-      "path": "ASSETS/IDEAS TO ADD (WIP).md"
+      "basename": "Flamel Series",
+      "path": "REX INVICTUS/Flamel Series/Flamel Series.md"
     },
     {
-      "basename": "G05_Kappa7_Iane",
-      "path": "REX INVICTUS/UNADDED/G05_Kappa7_Iane.md"
+      "basename": "Rex Invictus",
+      "path": "REX INVICTUS/Rex Invictus.md"
     },
     {
-      "basename": "Trophimoi",
-      "path": "REX INVICTUS/UOE/Trophimoi.md"
+      "basename": "Institute Academy",
+      "path": "REX INVICTUS/Corporations/Institute Academy.md"
     },
     {
-      "basename": "Sciritae",
-      "path": "REX INVICTUS/UOE/Sciritae.md"
+      "basename": "Metaphysical Null Phenomenon",
+      "path": "REX INVICTUS/Definitions/Divine Phenomena/Metaphysical Null Phenomenon.md"
     },
     {
-      "basename": "Perioeci",
-      "path": "REX INVICTUS/UOE/Perioeci.md"
+      "basename": "Monokerata",
+      "path": "SOFTINF/Monokerata.md"
     },
     {
-      "basename": "Psiloi",
-      "path": "REX INVICTUS/UOE/Psiloi.md"
+      "basename": "History of the world (Timeline)",
+      "path": "SOFTINF/History of the world (Timeline).md"
     },
     {
-      "basename": "Peltast",
-      "path": "REX INVICTUS/UOE/Peltast.md"
+      "basename": "Elementals",
+      "path": "SOFTINF/Elementals.md"
     },
     {
-      "basename": "Ekdromoi",
-      "path": "Ekdromoi.md"
+      "basename": "Cucubuths",
+      "path": "SOFTINF/Cucubuths.md"
     },
     {
-      "basename": "The Mist",
-      "path": "The Mist.md"
+      "basename": "Billy the Kid",
+      "path": "SOFTINF/Billy the Kid.md"
+    },
+    {
+      "basename": "Bastet",
+      "path": "SOFTINF/Bastet.md"
+    },
+    {
+      "basename": "Ard-Greimne",
+      "path": "SOFTINF/Ard-Greimne.md"
+    },
+    {
+      "basename": "Alchemy",
+      "path": "SOFTINF/Alchemy.md"
+    },
+    {
+      "basename": "Air magic",
+      "path": "SOFTINF/Air magic.md"
+    },
+    {
+      "basename": "Apollo",
+      "path": "REX INVICTUS/Greek/Greek Olympian/Apollo.md"
+    },
+    {
+      "basename": "E04_Apollo_Future",
+      "path": "REX INVICTUS/Lore Reference/Merged Profiles/E - Gods (Future) and Other Powers/E04_Apollo_Future.md"
     },
     {
       "basename": "Camp Half-Blood",
       "path": "REX INVICTUS/Greek/Greek Non-Divine/CHB/Camp Half-Blood.md"
+    },
+    {
+      "basename": "Athena",
+      "path": "REX INVICTUS/Greek/Greek Olympian/Athena/Athena.md"
+    },
+    {
+      "basename": "Bianca di Angelo",
+      "path": "REX INVICTUS/Greek/Greek Non-Divine/CHB/Members/Bianca di Angelo.md"
+    },
+    {
+      "basename": "Percy Jackson",
+      "path": "REX INVICTUS/Percy Jackson/Percy Jackson.md"
+    },
+    {
+      "basename": "Divine Being 'The One Upon Swift Wings'",
+      "path": "REX INVICTUS/Divine Being/Divine Being 'The One Upon Swift Wings'.md"
     },
     {
       "basename": "Draft - Rex Invictus XVII - Obscurus One",
@@ -73,28 +137,12 @@
       "path": "REX INVICTUS/Manuscript/Draft - Bianca and the Hollow Crescent.md"
     },
     {
-      "basename": "Plot Threads",
-      "path": "REX INVICTUS/Plot Threads.md"
-    },
-    {
-      "basename": "Brainstorm - Bianca and the Hollow Crescent",
-      "path": "REX INVICTUS/Brainstorm - Bianca and the Hollow Crescent.md"
-    },
-    {
-      "basename": "The Undying Laws of the Empire",
-      "path": "The Undying Laws of the Empire.md"
-    },
-    {
       "basename": "OPERATION CODES",
       "path": "REX INVICTUS/UOE/OPERATION CODES/OPERATION CODES.md"
     },
     {
       "basename": "CODE 7",
       "path": "REX INVICTUS/UOE/OPERATION CODES/CODE 7.md"
-    },
-    {
-      "basename": "Rex Invictus XVI - Continuation",
-      "path": "Claude outputs/Rex Invictus XVI - Continuation.md"
     },
     {
       "basename": "Forge of Hephaestus",
@@ -109,28 +157,8 @@
       "path": "REX INVICTUS/Locations/Karcharonexus.md"
     },
     {
-      "basename": "The Great Expansion",
-      "path": "REX INVICTUS/UOE/The Great Expansion.md"
-    },
-    {
-      "basename": "Hephaestus",
-      "path": "REX INVICTUS/Greek/Greek Oylmpian/Hephaestus.md"
-    },
-    {
-      "basename": "Aphrodite",
-      "path": "REX INVICTUS/Greek/Greek Oylmpian/Aphrodite.md"
-    },
-    {
       "basename": "Draft - Thalia - Near Miss",
       "path": "REX INVICTUS/Manuscript/Draft - Thalia - Near Miss.md"
-    },
-    {
-      "basename": "36 Cave Heavens and 72 Paradises",
-      "path": "36 Cave Heavens and 72 Paradises.md"
-    },
-    {
-      "basename": "War of Princes",
-      "path": "REX INVICTUS/UOE/War of Princes.md"
     },
     {
       "basename": "Draft - Minerva - Voss",
@@ -145,60 +173,8 @@
       "path": "REX INVICTUS/UOE/UOE Aphrodite's Grace.md"
     },
     {
-      "basename": "Helion Bulwark",
-      "path": "Helion Bulwark.md"
-    },
-    {
       "basename": "UOE Flagships",
       "path": "REX INVICTUS/UOE/UOE Flagships.md"
-    },
-    {
-      "basename": "Annexes",
-      "path": "REX INVICTUS/UOE/Annexes.md"
-    },
-    {
-      "basename": "Annex 13287",
-      "path": "REX INVICTUS/UOE/Annex 13287.md"
-    },
-    {
-      "basename": "Annex 3331",
-      "path": "REX INVICTUS/UOE/Annex 3331.md"
-    },
-    {
-      "basename": "Annex 1023",
-      "path": "REX INVICTUS/UOE/Annex 1023.md"
-    },
-    {
-      "basename": "Annex 419",
-      "path": "REX INVICTUS/UOE/Annex 419.md"
-    },
-    {
-      "basename": "Götterbrechende Raumzeitverankerungs-Langstreckenlanze",
-      "path": "Götterbrechende Raumzeitverankerungs-Langstreckenlanze.md"
-    },
-    {
-      "basename": "Hafnium(IV) bis(1-imperiumauride-1,1,1,5,5,5-hexafluoro-2,4-pentanedionate) bis(2-olympiumstannocupride-perfluorobutanoate)",
-      "path": "Hafnium(IV) bis(1-imperiumauride-1,1,1,5,5,5-hexafluoro-2,4-pentanedionate) bis(2-olympiumstannocupride-perfluorobutanoate).md"
-    },
-    {
-      "basename": "DIFM-CFT Smoke",
-      "path": "DIFM-CFT Smoke.md"
-    },
-    {
-      "basename": "Dionysische Mehrdomänen-Fokussierungs- und Ekstaseverstärkergerät “Thyrsos-Imperator” Mk.V",
-      "path": "Dionysische Mehrdomänen-Fokussierungs- und Ekstaseverstärkergerät “Thyrsos-Imperator” Mk.V.md"
-    },
-    {
-      "basename": "UOE Army Formations",
-      "path": "REX INVICTUS/UOE/UOE Army Formations.md"
-    },
-    {
-      "basename": "Neodamodes",
-      "path": "REX INVICTUS/UOE/Neodamodes.md"
-    },
-    {
-      "basename": "UOE Forces",
-      "path": "UOE Forces.md"
     }
   ],
   "omittedPaths": [],

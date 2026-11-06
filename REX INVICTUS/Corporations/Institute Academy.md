@@ -15,11 +15,11 @@ Sovereign Authority: [[UOE]]
 
 - Advanced [[Titan (Mech)]] non-weapon systems
     
-- High-output [[Generators]]
+- High-output [[#Generators|Generators]]
     
-- Titan-grade [[Thrusters]]
+- Titan-grade [[#Thrusters|Thrusters]]
     
-- Structural and adaptive [[Armor Parts and Variants]]
+- Structural and adaptive [[#Armor Parts and Variants|Armor Parts and Variants]]
     
 - Capital-ship containment systems
     
@@ -29,7 +29,7 @@ Sovereign Authority: [[UOE]]
 
 # Titan Systems Manufacturing
 
-## [[Armor Parts and Variants]]
+## Armor Parts and Variants
 
 Institute-produced armor systems employ:
 
@@ -44,32 +44,32 @@ These systems are modular and scalable, designed for integration across all [[UO
 
 ---
 
-## [[Generators]]
+## Generators
 
 Institute generator systems define the power ceilings of modern Titan and naval platforms.
 
 Core technologies include:
 
-- [[Zero-Point Assisted Reactors]]
+- [[#Generators|Zero-Point Assisted Reactors]]
     
-- [[Micro-Singularity Containment Cores]]
+- [[Black Hole|Micro-Singularity Containment Cores]]
     
-- [[Quantum Flux Stabilization Systems]]
+- [[#Generators|Quantum Flux Stabilization Systems]]
     
 
-These generators enable sustained operation of high-demand systems such as [[Black-Hole Launchers]] and advanced [[Electronic Warfare (EW)]] arrays.
+These generators enable sustained operation of high-demand systems such as [[Black Hole|Black-Hole Launchers]] and advanced [[Electronic Warfare (EW)]] arrays.
 
 ---
 
-## [[Thrusters]]
+## Thrusters
 
 Institute propulsion systems utilize:
 
-- [[Vectorized Plasma Exhaust Arrays]]
+- [[#Thrusters|Vectorized Plasma Exhaust Arrays]]
     
-- [[Gravitic Compensation Drives]]
+- [[#Thrusters|Gravitic Compensation Drives]]
     
-- [[Inertial Dampening Fields]]
+- [[#Thrusters|Inertial Dampening Fields]]
 
 ---
 
@@ -77,20 +77,20 @@ Institute propulsion systems utilize:
 
 [[Institute Academy]] provides core infrastructure for the [[UOE Navy]]:
 
-- [[Capital-Ship Power Cores]]
+- [[#Generators|Capital-Ship Power Cores]]
     
-- [[Gravitational Containment Fields]]
+- [[Black Hole|Gravitational Containment Fields]]
     
-- [[Warp-Buffer Stabilization Systems]]
+- [[Warp Shielding|Warp-Buffer Stabilization Systems]]
     
-- [[Singularity Containment Matrices]]
+- [[Black Hole|Singularity Containment Matrices]]
     
 
 Exclusive outfitter of:
 
-- [[Black-Hole Launchers]]
+- [[Black Hole|Black-Hole Launchers]]
     
-- [[Singularity Projection Containment Systems]]
+- [[Black Hole|Singularity Projection Containment Systems]]
 
 Deployment of these systems requires high-command authorization under direct [[Répertoire du Savoir Athénien]] oversight.
 
@@ -124,19 +124,19 @@ Institute systems operate across the full [[Electromagnetic Spectrum (EMS)]], in
 
 Within [[Electronic Warfare (EW)]], Institute systems are considered unmatchable by conventional macro-corporate manufacturers.
 
-## [[Noise Jamming]]
+## Noise Jamming
 
-Broadband or frequency-targeted emission designed to elevate adversary radar noise floor and suppress [[Radar]] discrimination capability.
+Broadband or frequency-targeted emission designed to elevate adversary radar noise floor and suppress [[Radar Systems|Radar]] discrimination capability.
 
 ### Primary Mechanisms
 
-- [[Barrage Jamming]]
+- [[Electronic Attack (EA)|Barrage Jamming]]
     
-- [[Spot Jamming]]
+- [[Electronic Attack (EA)|Spot Jamming]]
     
-- [[Sweep Jamming]]
+- [[Electronic Attack (EA)|Sweep Jamming]]
     
-- [[Adaptive Spectrum Saturation]]
+- [[Electronic Attack (EA)|Adaptive Spectrum Saturation]]
     
 
 ### Example Systems
@@ -150,19 +150,19 @@ Broadband or frequency-targeted emission designed to elevate adversary radar noi
 
 ---
 
-## [[Deception Jamming]]
+## Deception Jamming
 
-Coherent manipulation of [[Radar]] returns to generate false tracks, velocity displacement, or positional divergence.
+Coherent manipulation of [[Radar Systems|Radar]] returns to generate false tracks, velocity displacement, or positional divergence.
 
 ### Primary Mechanisms
 
-- [[Range Gate Pull-Off (RGPO)]]
+- [[Electronic Attack (EA)|Range Gate Pull-Off (RGPO)]]
     
-- [[Velocity Gate Pull-Off (VGPO)]]
+- [[Electronic Attack (EA)|Velocity Gate Pull-Off (VGPO)]]
     
-- [[Digital Radio Frequency Memory (DRFM)]] Replay
+- [[Electronic Attack (EA)|Digital Radio Frequency Memory (DRFM)]] Replay
     
-- [[Coherent False-Target Synthesis]]
+- [[Electronic Attack (EA)|Coherent False-Target Synthesis]]
     
 
 ### Example Systems
@@ -178,15 +178,15 @@ Coherent manipulation of [[Radar]] returns to generate false tracks, velocity di
 
 ## [[Chaff]]
 
-Deployment of reflective particulate media to generate volumetric [[Radar]] scattering fields.
+Deployment of reflective particulate media to generate volumetric [[Radar Systems|Radar]] scattering fields.
 
 ### Primary Mechanisms
 
-- [[Metallic Filament Dispersion]]
+- [[Chaff|Metallic Filament Dispersion]]
     
-- [[Ionized Plasma Chaff]]
+- [[Chaff|Ionized Plasma Chaff]]
     
-- [[Multi-Spectral Reflective Clusters]]
+- [[Chaff|Multi-Spectral Reflective Clusters]]
     
 
 ### Example Systems
@@ -200,19 +200,19 @@ Deployment of reflective particulate media to generate volumetric [[Radar]] scat
 
 ---
 
-## [[Communications Jamming]]
+## Communications Jamming
 
-Active suppression of adversary [[Communication Signals]] and network infrastructure.
+Active suppression of adversary [[Communications Intelligence (COMINT)|Communication Signals]] and network infrastructure.
 
 ### Primary Mechanisms
 
-- [[Broadband Radio Denial]]
+- [[Electronic Attack (EA)|Broadband Radio Denial]]
     
-- [[Satellite Uplink Suppression]]
+- [[Electronic Attack (EA)|Satellite Uplink Suppression]]
     
-- [[Navigation Constellation Interference]]
+- [[Electronic Attack (EA)|Navigation Constellation Interference]]
     
-- [[Data-Link Corruption Injection]]
+- [[Electronic Attack (EA)|Data-Link Corruption Injection]]
     
 
 ### Example Systems
@@ -230,17 +230,17 @@ Active suppression of adversary [[Communication Signals]] and network infrastruc
 
 ---
 
-## [[Frequency Agility]]
+## Frequency Agility
 
 Rapid waveform shifting across the [[Electromagnetic Spectrum (EMS)]] to prevent jammer frequency lock.
 
 ### Primary Mechanisms
 
-- [[Frequency Hopping]]
+- [[Electronic Protection (EP)|Frequency Hopping]]
     
-- [[AI-Predicted Hopping Sequences]]
+- [[Electronic Protection (EP)|AI-Predicted Hopping Sequences]]
     
-- [[Quantum-Seeded Waveform Generation]]
+- [[Electronic Attack (EA)|Quantum-Seeded Waveform Generation]]
     
 
 ### Example Systems
@@ -260,11 +260,11 @@ Encoded radar pulse modulation enabling discrimination between authentic returns
 
 ### Primary Mechanisms
 
-- [[Phase-Coded Waveforms]]
+- [[Electronic Protection (EP)|Phase-Coded Waveforms]]
     
-- [[Matched-Filter Signal Reconstruction]]
+- [[Matched Filter|Matched-Filter Signal Reconstruction]]
     
-- [[Low Probability of Intercept (LPI)]] Encoding
+- [[Electronic Protection (EP)|Low Probability of Intercept (LPI)]] Encoding
     
 
 ### Example Systems
@@ -284,11 +284,11 @@ Velocity-domain discrimination to reject stationary clutter or [[Chaff]].
 
 ### Primary Mechanisms
 
-- [[Moving Target Indication (MTI)]]
+- [[Doppler Filtering|Moving Target Indication (MTI)]]
     
-- [[Velocity Threshold Rejection]]
+- [[Electronic Protection (EP)|Velocity Threshold Rejection]]
     
-- [[Adaptive Doppler Windowing]]
+- [[Electronic Protection (EP)|Adaptive Doppler Windowing]]
     
 
 ### Example Systems
@@ -302,17 +302,17 @@ Velocity-domain discrimination to reject stationary clutter or [[Chaff]].
 
 ---
 
-## [[Home-On-Jam (HOJ)]]
+## Home-On-Jam (HOJ)
 
 Guidance mode exploiting adversary jammer emissions for targeting.
 
 ### Primary Mechanisms
 
-- [[Passive Emission Tracking]]
+- [[Electronic Intelligence (ELINT)|Passive Emission Tracking]]
     
-- [[Jammer Localization Algorithms]]
+- [[Electronic Protection (EP)|Jammer Localization Algorithms]]
     
-- [[Emission-Based Missile Guidance]]
+- [[Radar Systems|Emission-Based Missile Guidance]]
     
 
 ### Example Systems
@@ -330,17 +330,17 @@ Guidance mode exploiting adversary jammer emissions for targeting.
 
 ---
 
-## [[Adaptive Jamming]]
+## Adaptive Jamming
 
 Jamming architecture capable of detecting and defeating adversary [[Electronic Counter-Countermeasures (ECCM)]].
 
 ### Primary Mechanisms
 
-- [[Frequency Pattern Tracking]]
+- [[Electronic Intelligence (ELINT)|Frequency Pattern Tracking]]
     
-- [[Waveform Prediction Algorithms]]
+- [[Electronic Protection (EP)|Waveform Prediction Algorithms]]
     
-- [[Real-Time Spectrum Learning]]
+- [[Electronic Protection (EP)|Real-Time Spectrum Learning]]
     
 
 ### Example Systems
@@ -354,17 +354,17 @@ Jamming architecture capable of detecting and defeating adversary [[Electronic C
 
 ---
 
-## [[Coherent DRFM False Target Injection]]
+## Coherent DRFM False Target Injection
 
 Full-waveform replication designed to bypass [[Pulse Compression]] and other [[Electronic Protection (EP)]] measures.
 
 ### Primary Mechanisms
 
-- [[Full-Waveform DRFM Replication]]
+- [[Electronic Attack (EA)|Full-Waveform DRFM Replication]]
     
-- [[Phase-Coherent Echo Reconstruction]]
+- [[Electronic Protection (EP)|Phase-Coherent Echo Reconstruction]]
     
-- [[Multi-Domain Signal Injection]]
+- [[Electronic Attack (EA)|Multi-Domain Signal Injection]]
     
 
 ### Example Systems

@@ -1,6 +1,6 @@
 Battalion for Urban Tactical Law Enforcement and Reconnaissance
 "Benevolentia Unitas Tribuit Lucem Et Resurgendum"
-Elite All-male PMC hired under the [[Institute Academy]]. was formally constituted in 1963 Old Terra Standard, five years after the founding of [[Military Advanced Infantry Directorate (MAID)]]. The creation directive originated from internal strategic review within [[Institute Academy]], which concluded that overt force projection required an equally sophisticated covert counterpart.
+Elite All-male PMC hired under the [[Institute Academy]]. was formally constituted in 1963 Old Terra Standard, five years after the founding of [[M.A.I.D|Military Advanced Infantry Directorate (MAID)]]. The creation directive originated from internal strategic review within [[Institute Academy]], which concluded that overt force projection required an equally sophisticated covert counterpart.
 
 ### Force Size and Composition
 
@@ -42,35 +42,35 @@ All ranks are standardized for archival compatibility.
 
 **High Command:**
 
-- [[Grand Seneschal (B.U.T.L.E.R)]] — Supreme Director of the Order
+- Grand Seneschal (B.U.T.L.E.R) — Supreme Director of the Order
     
-- [[High Castellan (B.U.T.L.E.R)]] — Regional Strategic Authority
+- High Castellan (B.U.T.L.E.R) — Regional Strategic Authority
     
-- [[Master Justiciar (B.U.T.L.E.R)]] — Intelligence Oversight and Adjudication
+- Master Justiciar (B.U.T.L.E.R) — Intelligence Oversight and Adjudication
     
-- [[Lord Marshal (B.U.T.L.E.R)]] — Operational Field Commander
+- Lord Marshal (B.U.T.L.E.R) — Operational Field Commander
     
 
 **Mid-Tier Command:**
 
-- [[Knight-Commander (B.U.T.L.E.R)]] — Battalion-Level Strategic Lead
+- Knight-Commander (B.U.T.L.E.R) — Battalion-Level Strategic Lead
     
-- [[Warden (B.U.T.L.E.R)]] — Operational Cell Commander
+- Warden (B.U.T.L.E.R) — Operational Cell Commander
     
-- [[Justiciar (B.U.T.L.E.R)]] — Senior Counter-Intelligence Officer
+- Justiciar (B.U.T.L.E.R) — Senior Counter-Intelligence Officer
     
-- [[Herald (B.U.T.L.E.R)]] — Tactical Communications and Signal Specialist
+- Herald (B.U.T.L.E.R) — Tactical Communications and Signal Specialist
     
 
 **Field Ranks:**
 
-- [[Knight-Infiltrator (B.U.T.L.E.R)]] — Elite Covert Operative
+- Knight-Infiltrator (B.U.T.L.E.R) — Elite Covert Operative
     
-- [[Sergeant-at-Arms (B.U.T.L.E.R)]] — Tactical Enforcer
+- Sergeant-at-Arms (B.U.T.L.E.R) — Tactical Enforcer
     
-- [[Man-at-Arms (B.U.T.L.E.R)]] — Standard Operative
+- Man-at-Arms (B.U.T.L.E.R) — Standard Operative
     
-- [[Squire (B.U.T.L.E.R)]] — Probationary Intelligence Trainee
+- Squire (B.U.T.L.E.R) — Probationary Intelligence Trainee
     
 
 Rank structure preserves symbolic continuity across centuries while remaining adaptable to evolving operational frameworks.
@@ -81,13 +81,13 @@ Rank structure preserves symbolic continuity across centuries while remaining ad
 
 [[B.U.T.L.E.R]] is internally segmented into:
 
-- [[Shadow Wards (B.U.T.L.E.R)]] — Deep infiltration and long-duration embedding
+- Shadow Wards (B.U.T.L.E.R) — Deep infiltration and long-duration embedding
     
-- [[Silent Bastions (B.U.T.L.E.R)]] — Counter-intelligence and internal security
+- Silent Bastions (B.U.T.L.E.R) — Counter-intelligence and internal security
     
-- [[Black Archive Cells (B.U.T.L.E.R)]] — Technological recovery and suppression
+- Black Archive Cells (B.U.T.L.E.R) — Technological recovery and suppression
     
-- [[Noctis Tribunal (B.U.T.L.E.R)]] — Internal discipline and strategic adjudication
+- Noctis Tribunal (B.U.T.L.E.R) — Internal discipline and strategic adjudication
     
 
 Each cell integrates Institute-manufactured:
@@ -124,6 +124,6 @@ Uniform configurations reflect this approach:
     
 - Concealed micro-[[Electronic Intelligence (ELINT)]] receivers
     
-- Embedded [[Emitter Signature]] detection systems
+- Embedded [[Emitter Identification|Emitter Signature]] detection systems
     
 - Hidden counter-surveillance modules

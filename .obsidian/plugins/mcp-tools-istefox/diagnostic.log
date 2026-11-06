@@ -1,0 +1,42 @@
+{"timestamp":"2026-11-02T08:01:27.271Z","level":"INFO","message":"MCP Tools Plugin loading","fields":{"pluginVersion":"3.3.0","platform":"win32"}}
+{"timestamp":"2026-11-02T08:01:27.316Z","level":"INFO","message":"MCP Connector HTTP server listening","fields":{"port":27201,"pluginVersion":"3.3.0"}}
+{"timestamp":"2026-11-02T08:01:27.332Z","level":"INFO","message":"Hosting the shared MCP broker","fields":{"port":27200}}
+{"timestamp":"2026-11-02T08:01:27.341Z","level":"INFO","message":"Broker route registered","fields":{"brokerPort":27200,"transportPort":27201}}
+{"timestamp":"2026-11-02T08:01:27.355Z","level":"INFO","message":"semantic-search: started","fields":{"provider":"auto"}}
+{"timestamp":"2026-11-02T08:01:27.355Z","level":"INFO","message":"MCP Tools Plugin loaded","fields":{}}
+{"timestamp":"2026-11-02T09:38:03.341Z","level":"INFO","message":"MCP Tools Plugin loading","fields":{"pluginVersion":"3.3.0","platform":"win32"}}
+{"timestamp":"2026-11-02T09:38:03.357Z","level":"INFO","message":"MCP Connector HTTP server listening","fields":{"port":27201,"pluginVersion":"3.3.0"}}
+{"timestamp":"2026-11-02T09:38:03.366Z","level":"INFO","message":"Hosting the shared MCP broker","fields":{"port":27200}}
+{"timestamp":"2026-11-02T09:38:03.375Z","level":"INFO","message":"Broker route registered","fields":{"brokerPort":27200,"transportPort":27201}}
+{"timestamp":"2026-11-02T09:38:03.388Z","level":"INFO","message":"semantic-search: started","fields":{"provider":"auto"}}
+{"timestamp":"2026-11-02T09:38:03.388Z","level":"INFO","message":"MCP Tools Plugin loaded","fields":{}}
+{"timestamp":"2026-11-02T10:48:55.231Z","level":"INFO","message":"MCP Tools Plugin loading","fields":{"pluginVersion":"3.3.0","platform":"win32"}}
+{"timestamp":"2026-11-02T10:48:55.246Z","level":"INFO","message":"MCP Connector HTTP server listening","fields":{"port":27201,"pluginVersion":"3.3.0"}}
+{"timestamp":"2026-11-02T10:48:55.252Z","level":"INFO","message":"Hosting the shared MCP broker","fields":{"port":27200}}
+{"timestamp":"2026-11-02T10:48:55.258Z","level":"INFO","message":"Broker route registered","fields":{"brokerPort":27200,"transportPort":27201}}
+{"timestamp":"2026-11-02T10:48:55.268Z","level":"INFO","message":"semantic-search: started","fields":{"provider":"auto"}}
+{"timestamp":"2026-11-02T10:48:55.268Z","level":"INFO","message":"MCP Tools Plugin loaded","fields":{}}
+{"timestamp":"2026-11-02T14:27:37.615Z","level":"INFO","message":"MCP Tools Plugin loading","fields":{"pluginVersion":"3.3.0","platform":"win32"}}
+{"timestamp":"2026-11-02T14:27:37.644Z","level":"INFO","message":"MCP Connector HTTP server listening","fields":{"port":27201,"pluginVersion":"3.3.0"}}
+{"timestamp":"2026-11-02T14:27:37.655Z","level":"INFO","message":"Hosting the shared MCP broker","fields":{"port":27200}}
+{"timestamp":"2026-11-02T14:27:37.669Z","level":"INFO","message":"Broker route registered","fields":{"brokerPort":27200,"transportPort":27201}}
+{"timestamp":"2026-11-02T14:27:37.685Z","level":"INFO","message":"semantic-search: started","fields":{"provider":"auto"}}
+{"timestamp":"2026-11-02T14:27:37.685Z","level":"INFO","message":"MCP Tools Plugin loaded","fields":{}}
+{"timestamp":"2026-11-02T18:04:22.149Z","level":"INFO","message":"MCP Tools Plugin loading","fields":{"pluginVersion":"3.3.0","platform":"win32"}}
+{"timestamp":"2026-11-02T18:04:22.166Z","level":"INFO","message":"MCP Connector HTTP server listening","fields":{"port":27201,"pluginVersion":"3.3.0"}}
+{"timestamp":"2026-11-02T18:04:22.173Z","level":"INFO","message":"Hosting the shared MCP broker","fields":{"port":27200}}
+{"timestamp":"2026-11-02T18:04:22.182Z","level":"INFO","message":"Broker route registered","fields":{"brokerPort":27200,"transportPort":27201}}
+{"timestamp":"2026-11-02T18:04:22.195Z","level":"INFO","message":"semantic-search: started","fields":{"provider":"auto"}}
+{"timestamp":"2026-11-02T18:04:22.196Z","level":"INFO","message":"MCP Tools Plugin loaded","fields":{}}
+{"timestamp":"2026-11-04T10:08:20.298Z","level":"INFO","message":"MCP Tools Plugin loading","fields":{"pluginVersion":"3.3.0","platform":"win32"}}
+{"timestamp":"2026-11-04T10:08:20.316Z","level":"INFO","message":"MCP Connector HTTP server listening","fields":{"port":27201,"pluginVersion":"3.3.0"}}
+{"timestamp":"2026-11-04T10:08:20.325Z","level":"INFO","message":"Hosting the shared MCP broker","fields":{"port":27200}}
+{"timestamp":"2026-11-04T10:08:20.334Z","level":"INFO","message":"Broker route registered","fields":{"brokerPort":27200,"transportPort":27201}}
+{"timestamp":"2026-11-04T10:08:20.344Z","level":"INFO","message":"semantic-search: started","fields":{"provider":"auto"}}
+{"timestamp":"2026-11-04T10:08:20.344Z","level":"INFO","message":"MCP Tools Plugin loaded","fields":{}}
+{"timestamp":"2026-11-04T10:28:49.948Z","level":"INFO","message":"MCP Tools Plugin loading","fields":{"pluginVersion":"3.3.0","platform":"win32"}}
+{"timestamp":"2026-11-04T10:28:49.961Z","level":"INFO","message":"MCP Connector HTTP server listening","fields":{"port":27201,"pluginVersion":"3.3.0"}}
+{"timestamp":"2026-11-04T10:28:49.967Z","level":"INFO","message":"Hosting the shared MCP broker","fields":{"port":27200}}
+{"timestamp":"2026-11-04T10:28:49.973Z","level":"INFO","message":"Broker route registered","fields":{"brokerPort":27200,"transportPort":27201}}
+{"timestamp":"2026-11-04T10:28:49.980Z","level":"INFO","message":"semantic-search: started","fields":{"provider":"auto"}}
+{"timestamp":"2026-11-04T10:28:49.980Z","level":"INFO","message":"MCP Tools Plugin loaded","fields":{}}

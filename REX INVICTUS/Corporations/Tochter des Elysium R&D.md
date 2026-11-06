@@ -16,7 +16,7 @@ Many historians describe the organization as the “laboratory of the empire’s
 
 # Founding and Historical Role
 
-[[Tochter des Elysium R&D]] emerged during the early centuries of the [[Great Expansion]], when technological demand across newly colonized star systems grew faster than the central apparatus of the [[UOE]] could supply.
+[[Tochter des Elysium R&D]] emerged during the early centuries of the [[The Great Expansion|Great Expansion]], when technological demand across newly colonized star systems grew faster than the central apparatus of the [[UOE]] could supply.
 
 The corporation began as a classified research subsidiary funded by a consortium of industrial powers seeking to reverse-engineer divine technologies recovered from early expansion ruins and experimental battlefield sites.
 
@@ -73,7 +73,7 @@ Research areas include:
 
 - [[Hyperium]] energy manipulation
     
-- [[Tachyon Bridge Network (TBN)]] interference technologies
+- [[Tachyon Bridge Network|Tachyon Bridge Network (TBN)]] interference technologies
     
 - Anti-divine suppression weapons
     
@@ -141,22 +141,22 @@ The corporation operates under a rigid research hierarchy modeled after Old Terr
 
 ### Senior Leadership
 
-- [[Direktor-General]] — Supreme corporate authority
+- Direktor-General — Supreme corporate authority
     
-- [[Oberdirektor]] — Strategic research director
+- Oberdirektor — Strategic research director
     
-- [[Hauptingenieur]] — Lead systems engineer
+- Hauptingenieur — Lead systems engineer
     
-- [[Projektkommandant]] — Project commander
+- Projektkommandant — Project commander
     
 
 ### Technical Personnel
 
-- [[Senior Wissenschaftler]] — Senior scientist
+- Senior Wissenschaftler — Senior scientist
     
-- [[Versuchsingenieur]] — Experimental engineer
+- Versuchsingenieur — Experimental engineer
     
-- [[Techniker]] — Laboratory technician
+- Techniker — Laboratory technician
     
 
 Each research branch operates as a semi-autonomous **Versuchsstelle** (experimental station).
@@ -187,7 +187,7 @@ This philosophy has occasionally placed the corporation in tension with religiou
 
 The roots of [[Tochter des Elysium R&D]] lie in the first violent years of the modern divine age. In 3045.01.1.1, humanity’s explosive population rise across [[Gaia (Planet)]] and the earliest interstellar colonies triggered a vast and uncontrolled surge in [[Divine Power]]. Dormant godly domains destabilized, old powers stirred, and even the structure of [[Olympus Primaris]] began to crack under the pressure, while [[Olympus Secundus]] struggled to contain the emergence of new [[Divine Being]]s.
 
-When [[Zeus]] reconvened the [[Council of Olympus]] on [[Olympus Secundus]] in 3045.02.1.3, and formally decreed [[The Great Expansion]] on 3045.04.2.7, the Greek divine sphere abruptly required more than armies and priesthoods. It required engineering, logistics, and scientific institutions capable of making distant rule physically possible.
+When [[Zeus]] reconvened the [[Olympian High Council|Council of Olympus]] on [[Olympus Secundus]] in 3045.02.1.3, and formally decreed [[The Great Expansion]] on 3045.04.2.7, the Greek divine sphere abruptly required more than armies and priesthoods. It required engineering, logistics, and scientific institutions capable of making distant rule physically possible.
 
 The first precursor bodies to [[Tochter des Elysium R&D]] were not yet a corporation, but a collection of military-technical bureaus, salvage laboratories, and orbital engineering cells established in newly opened Greek sectors. Their earliest mandate was practical:
 
@@ -246,7 +246,7 @@ The Greek expansion could no longer assume a merely administrative future. It re
 - sensor systems able to operate under deception, mythic concealment, and signal distortion
     
 
-At the same time, the growth of fringe cults, [[Free-city ship]] networks, and increasingly independent [[Legacy]] populations made central control more difficult. The recognition of Perseus, legacy of [[Apollo]], as the first [[Ascended Legacy]] in 3048.02.4.4 further proved that political and military hierarchies were becoming technologically and spiritually unstable.
+At the same time, the growth of fringe cults, [[The Great Expansion|Free-city ship]] networks, and increasingly independent [[Legacy]] populations made central control more difficult. The recognition of Perseus, legacy of [[Apollo]], as the first [[Legacy|Ascended Legacy]] in 3048.02.4.4 further proved that political and military hierarchies were becoming technologically and spiritually unstable.
 
 During this period, [[Tochter des Elysium R&D]] expanded from an engineering corporation into a strategic research house. Its laboratories began specializing in:
 
@@ -267,7 +267,7 @@ It was also during this period that the corporation’s product naming conventio
 
 ## 3048 and after: The end of the first expansionary innocence
 
-The emergence of rebellious fringe groups and unsanctioned magical-industrial movements culminated in a new phase of imperial hardening. The failed permissiveness of the Dionysian fringe, the rise of dangerous cult technologies, and the first use of the [[Zeus-Wrath Hunter Killer]] satellites against a demigod building a sun-eating spell marked the effective end of the naive phase of [[The Great Expansion]].
+The emergence of rebellious fringe groups and unsanctioned magical-industrial movements culminated in a new phase of imperial hardening. The failed permissiveness of the Dionysian fringe, the rise of dangerous cult technologies, and the first use of the [[Zeus-Wrath Hunter Killer Satellites|Zeus-Wrath Hunter Killer]] satellites against a demigod building a sun-eating spell marked the effective end of the naive phase of [[The Great Expansion]].
 
 This mattered enormously for [[Tochter des Elysium R&D]].
 
@@ -298,7 +298,7 @@ Across the centuries following the close of early expansion, [[Tochter des Elysi
 
 Where [[Institute Academy]] represented refinement, coherence, and state-backed technological transcendence, Tochter grew into something harsher: the empire’s proving ground for dangerous concepts.
 
-Its research stations, often styled as [[Versuchsstelle]] complexes, were established around:
+Its research stations, often styled as Versuchsstelle complexes, were established around:
 
 - frontier military depots
     

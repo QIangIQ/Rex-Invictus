@@ -46,40 +46,40 @@ MAID employs a distinctly French-inspired command hierarchy, preserved as instit
 
 **Commissioned Command Ranks:**
 
-- [[Maréchale-Commandante]] — Supreme Operational Commander of MAID
+- [[French Army Ranks|Maréchale-Commandante]] — Supreme Operational Commander of MAID
     
-- [[Générale de Corps]] — Corps-level commander
+- [[French Army Ranks|Générale de Corps]] — Corps-level commander
     
-- [[Générale de Division]] — Division-level commander
+- [[French Army Ranks|Générale de Division]] — Division-level commander
     
-- [[Générale de Brigade]] — Brigade-level commander
+- [[French Army Ranks|Générale de Brigade]] — Brigade-level commander
     
-- [[Colonelle]] — Regiment commander
+- [[French Army Ranks|Colonelle]] — Regiment commander
     
-- [[Lieutenante-Colonelle]] — Deputy regiment commander
+- [[French Army Ranks|Lieutenante-Colonelle]] — Deputy regiment commander
     
-- [[Commandante]] — Battalion commander
+- [[French Army Ranks|Commandante]] — Battalion commander
     
-- [[Capitaine]] — Company commander
+- [[French Army Ranks|Capitaine]] — Company commander
     
-- [[Lieutenante]] — Platoon leader
+- [[French Army Ranks|Lieutenante]] — Platoon leader
     
-- [[Sous-Lieutenante]] — Junior platoon officer
+- [[French Army Ranks|Sous-Lieutenante]] — Junior platoon officer
     
 
 **Non-Commissioned Structure:**
 
-- [[Adjudante-Cheffe]]
+- [[French Army Ranks|Adjudante-Cheffe]]
     
-- [[Adjudante]]
+- [[French Army Ranks|Adjudante]]
     
-- [[Sergente-Majore]]
+- [[French Army Ranks|Sergente-Majore]]
     
-- [[Sergente]]
+- [[French Army Ranks|Sergente]]
     
-- [[Caporale-Cheffe]]
+- [[French Army Ranks|Caporale-Cheffe]]
     
-- [[Caporale]]
+- [[French Army Ranks|Caporale]]
 
 ---
 

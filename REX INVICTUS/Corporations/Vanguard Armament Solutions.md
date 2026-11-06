@@ -1,1 +1,1 @@
-producers of ceremonial and high quiality [[Melee]] weaponry, commonly including [[Xiphos]], [[Gladius]], [[Bow]], [[Lances]], [[Warhammers]], [[Spears]]
+producers of ceremonial and high quiality [[Melee]] weaponry, commonly including [[Xiphos]], [[Gladius]], [[Melee|Bow]], [[Spears|Lances]], [[Melee|Warhammers]], [[Spears]]

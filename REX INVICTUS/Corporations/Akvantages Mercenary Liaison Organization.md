@@ -1,11 +1,11 @@
 The [[Akvantages Mercenary Liaison Organization]] emerged during the early escalation of the [[War of Princes]], at a moment when Imperial cohesion fractured under the weight of demigod dissent, pantheonic realignment, and industrial overextension. As Pure and Second-Born Demigods clashed and border systems destabilized, the North-Western sectors devolved into a patchwork of fortified systems, corporate enclaves, and rebel-aligned sovereignty blocs.
 
-It was within this climate that Akvantages formalized itself as the primary North Sector [[MLO]], consolidating disparate private military companies under a unified contract-brokerage and command harmonization framework.
+It was within this climate that Akvantages formalized itself as the primary North Sector [[Private Military Company (PMC)|MLO]], consolidating disparate private military companies under a unified contract-brokerage and command harmonization framework.
 
-Akvantages’s reputation crystallized during the defense of [[Terra Secundus]], a northern frontier world targeted during cascading retaliatory strikes in the mid-war period. With UOE and Prince-aligned forces overstretched across multiple sectors, Terra Secundus lacked sufficient fleet coverage and [[Grid]]-class infrastructure.
+Akvantages’s reputation crystallized during the defense of [[Terra Secundus]], a northern frontier world targeted during cascading retaliatory strikes in the mid-war period. With UOE and Prince-aligned forces overstretched across multiple sectors, Terra Secundus lacked sufficient fleet coverage and [[Grids|Grid]]-class infrastructure.
 
 Designation: [[Akvantages Mercenary Liaison Organization]]  
-Classification: North Sector [[MLO]] & [[Private Military Company (PMC)]] Aggregator  
+Classification: North Sector [[Private Military Company (PMC)|MLO]] & [[Private Military Company (PMC)]] Aggregator  
 Headquarters: High-Galactic North (Outer Halo-adjacent systems)
 
 Following the [[Treaty of Mount Rumker]], Akvantages expanded operations in systems bound by non-expansion clauses, where direct divine command structures were prohibited.

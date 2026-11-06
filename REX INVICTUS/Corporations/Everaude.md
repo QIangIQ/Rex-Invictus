@@ -1,2 +1,2 @@
-[[Cybernetics]] enhancements developers and sellers.
-Specialize in industrial/civilian grade augments and [[Cores]]
+Cybernetics enhancements developers and sellers.
+Specialize in industrial/civilian grade augments and Cores

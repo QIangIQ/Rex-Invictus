@@ -10,5 +10,5 @@
 	- Effective on torpedo boats, acting as [[Flak]] or [[Point-Defence]]
 - Electro-Bolt Cannons
 	- Electro-kinetic slugs, usually only used to nullify deflectors in assistance to main broadsides
-- [[Nested Missile batteries]]
+- [[Swarm Missile|Nested Missile batteries]]
 	- Rely on raw amounts of ballistic missiles to oversaturate defenses, cheap to produce but easily countered by large amounts of enemies

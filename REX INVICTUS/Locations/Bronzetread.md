@@ -1,1 +1,1 @@
-Prime producer of [[Automata]]
+Prime producer of Automata

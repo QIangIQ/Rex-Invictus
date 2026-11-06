@@ -1,1 +1,0 @@
-[[Kagura Kuroyami]]
