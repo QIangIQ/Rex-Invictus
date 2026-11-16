@@ -34,7 +34,7 @@
   },
   "semanticSearch": {
     "provider": "auto",
-    "indexingMode": "live",
-    "unloadModelWhenIdle": false
+    "indexingMode": "low-power",
+    "unloadModelWhenIdle": true
   }
 }

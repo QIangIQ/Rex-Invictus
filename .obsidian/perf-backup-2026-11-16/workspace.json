@@ -1,0 +1,313 @@
+{
+  "main": {
+    "id": "558e33668611ddee",
+    "type": "split",
+    "children": [
+      {
+        "id": "feb92d1e2d9ce657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3132ffb4a3b273a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18976083756198f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c78be051e4b0a4b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4060348a5328b4a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b305b7cc3f9a858d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "5822862e7d9f71dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "lingua",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3fd4bc1ff80d41d3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "bdb98dcee67f5f6b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "532b06b10b48eb77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b234757ed6fef728",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "669bb1546130b7fe",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 446.5
+  },
+  "right": {
+    "id": "449f44e623a604ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "98def8532c6b3858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dbfd8843a2e4609",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fde1cf0cd1566cbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "be81be0d793212ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5e09f3b310ae448a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "a71ee1eeec658e46",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "d6be88fb185cdcc2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "local-backup:Run local backup": false,
+      "3d-graph:3D Graph": false,
+      "webpage-html-export:Export as HTML": false,
+      "infranodus-graph-view:InfraNodus Graph View": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "3132ffb4a3b273a3",
+  "lastOpenFiles": [
+    "Alarm], [[Magelight.md",
+    "Untitled.md",
+    "REX INVICTUS/Lore Reference/Merged Profiles/B - Minerva and AtRep/B03_AtRep_Repertoire_du_Savoir_Athenien.md",
+    "REX INVICTUS/Lore Reference/Merged Profiles/A - Percy Versions/A02_Percy_Reincarnated_Rex.md",
+    "REX INVICTUS/Lore Reference/99_Minor_Characters_Compendium.md",
+    "REX INVICTUS/Lore Reference/00_START_HERE_Version_Guide_and_World_Primer.md",
+    "REX INVICTUS/Divine Being/Pantheons/Dragons Nest Pantheon.md",
+    "REX INVICTUS/Definitions/Drachamae.md",
+    "REX INVICTUS/Divine Being/Divine Being 'Owl of Unending Flight'.md",
+    "REX INVICTUS/Divine Being/Alternate Divine Being 'Blessed Symphony'.md",
+    "MTWABV/Apple of Youth.md",
+    "MTWABV/ApolloFamily Tree.md",
+    "MTWABV/ApolloAbilities.md",
+    "MTWABV/Apollo.md",
+    "MTWABV/Aphrodite ElderbloodGallery.md",
+    "MTWABV/Aphrodite ElderbloodFamily Tree.md",
+    "MTWABV/Aphrodite ElderbloodAbilities.md",
+    "MTWABV/Aphrodite Elderblood.md",
+    "MTWABV/Aphrodite's Super Spaceship.md",
+    "MTWABV/Apep.md",
+    "MTWABV/Anubis.md",
+    "MTWABV/Anthony Bianchi.md",
+    "MTWABV/Anrietha AdrasteiaAbilities.md",
+    "MTWABV/Anrietha Adrasteia.md",
+    "MTWABV/Annasthashia Elderblood FulgerGallery.md",
+    "MTWABV/Annasthashia Elderblood FulgerFamily Tree.md",
+    "REX INVICTUS/sedWaHnyn",
+    "REX INVICTUS/Greek/Greek Non-Divine/CHB/sedt2RI2X",
+    "REX INVICTUS/Chinese/Chinese Divine",
+    "REX INVICTUS/Chinese",
+    "REX INVICTUS/PJO Canon/Quests",
+    "REX INVICTUS/Definitions/Ranks",
+    "REX INVICTUS/Definitions/Anatomy",
+    "REX INVICTUS/Law & Doctrine/Magical Traditions",
+    "REX INVICTUS/Mesoamerican/Mesoamerican Realms",
+    "REX INVICTUS/Mesoamerican/Mesoamerican Divine",
+    "Untitled.canvas",
+    "ASSETS/logo_VFC.png",
+    "REX INVICTUS/ASSETS/IMAGES/LOGOS/Pasted image 20241104214753.png",
+    "REX INVICTUS/ASSETS/IMAGES/LOGOS/Pasted image 20241104214747.png",
+    "REX INVICTUS/ASSETS/IMAGES/LOGOS/logo_VFC.png",
+    "REX INVICTUS/ASSETS/IMAGES/CONCEPT ART/Pasted image 20241104214103.png",
+    "REX INVICTUS/ASSETS/IMAGES/CONCEPT ART/Pasted image 20241104214004.png",
+    "REX INVICTUS/ASSETS/IMAGES/CONCEPT ART/Pasted image 20241104213738.png",
+    "REX INVICTUS/ASSETS/IMAGES/CONCEPT ART/Pasted image 20241104213500.png",
+    "REX INVICTUS/ASSETS/IMAGES/CONCEPT ART/Pasted image 20241104213911.png",
+    "REX INVICTUS/ASSETS/IMAGES/CONCEPT ART/Pasted image 20241104213835.png",
+    "REX INVICTUS/ASSETS/IMAGES/CONCEPT ART/Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

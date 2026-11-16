@@ -9,5 +9,9 @@
     "downscalePercent": 100
   },
   "useMarkdownLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "_Archive/",
+    ".trash/"
+  ]
 }

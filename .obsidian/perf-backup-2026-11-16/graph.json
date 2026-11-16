@@ -1,0 +1,660 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"REX INVICTUS/Immortals & Vampires/Houses/Elderblood Imperial Family\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11534394
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Immortals & Vampires/Houses\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14684511
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Immortals & Vampires/Immortal Humani\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14315734
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Immortals & Vampires/Werewolves\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9127187
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Immortals & Vampires/Dragons\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16720896
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Definitions/Concepts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13047173
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Definitions/Races\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14561635
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Unaligned/Factions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8388640
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Unaligned/Eldritch\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3869253
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Unaligned/Other Beings\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16033472
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Unaligned/Elders\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12211667
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Locations/Cosmos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10431336
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Locations/Shadowrealms\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9662683
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Locations/Danu Talis\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9055202
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Divine Weapons/Artifacts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16742314
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Divine Weapons/Swords of Power\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15631086
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Mortal World/Supernatural Humans\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15116503
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Law & Doctrine/Magical Traditions/Elder Magic\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14524637
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Lore Reference/Source Books\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14204888
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Lore Reference/Crossover Sources\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Technology/Starships\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8087790
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Divine Being/Other Gods\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11154282
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Divine Being/Pantheons\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10813508
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Events & Battles/Elderblood Era\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15761536
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Greek/Greek Olympian\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Greek/Titans\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16747520
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Greek/Primordials\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10181119
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Greek/Greek Monster\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11674146
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Greek/Greek Giant\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9132587
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Greek/Sea Deities\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 52945
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Greek/Greek Divine\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8190976
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Greek/Greek Non-Divine\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Greek/Deceased (Greek)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5597999
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Greek/Festivals & Events\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11403055
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Greek/Unaligned\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10145074
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Roman/Roman History\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16740193
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Roman\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14423100
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Norse\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2003199
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Egyptian\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Celtic\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3050327
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Mesopotamian\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14329120
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Mesoamerican\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16729344
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Chinese\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16724016
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Japanese Pantheon\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16744192
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Indian Pantheon\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16750899
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/World Folklore\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12211667
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Catholic\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16119260
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/UOE/Legions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12632256
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/UOE/Forces\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11119093
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/UOE/Order of the Hollow Crescent\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9055202
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/UOE/Annexes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11591910
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/UOE/Vessels UOE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4620980
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/UOE/House of Arenberg\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15132410
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/UOE/Hades UOE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4734347
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/UOE/Poseidon UOE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2142890
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/UOE/Zeus UOE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8900346
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/UOE/Personnel\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15787660
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/UOE/RANK\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15657130
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/UOE/OPERATION CODES\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13882367
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Technology/Electronic Warfare\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Technology/Weapons & Munitions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16737095
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Technology/Materials & Chemistry\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13468991
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Technology/Hardening & Single Event Effects\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8388564
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Technology/Titan Mechs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7372944
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Technology/Orbital Defense\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6591981
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Technology/Physics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4251856
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Technology/Divine Equipment\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16767673
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Technology\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6266528
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Lore Reference\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16758465
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Manuscript\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/PJO Canon\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8900331
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Locations/Mortal World\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13808780
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Locations/Ancient World\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12357519
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Cultivation World\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16716947
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Planetary Security Forces\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8421376
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Law & Doctrine\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12092939
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Events & Battles\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16752762
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Immortals & Vampires\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9109504
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Planning\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15761536
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Mortal World\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13808780
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Unaligned\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10145074
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Greek\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/UOE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Definitions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Divine Being\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Divine Weapons\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Locations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Corporations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS/Percy Jackson\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"_Inbox\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6908265
+      }
+    },
+    {
+      "query": "path:\"REX INVICTUS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 1.01125457698979,
+  "lineSizeMultiplier": 0.34646367315475,
+  "collapse-forces": true,
+  "centerStrength": 0.555983811909809,
+  "repelStrength": 14.8433880551919,
+  "linkStrength": 0.728656773944883,
+  "linkDistance": 30,
+  "scale": 0.06932050228246403,
+  "close": false
+}
