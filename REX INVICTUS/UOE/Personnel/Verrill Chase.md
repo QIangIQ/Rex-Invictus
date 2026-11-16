@@ -187,3 +187,6 @@ Verrill Chase is an engineer of "perhaps twenty" from the far-future Undying Oly
 ## Classification
 
 - Legacy of [[Athena]]
+
+
+See also: [[Siege of the Pyriphlegethon Arsenal]]

@@ -374,3 +374,6 @@ Thalia Grace is a Greek [[Demigod]], the daughter of [[Zeus]] and the mortal
 ## Sources
 
 - Riordan Wiki: https://riordan.fandom.com/wiki/Thalia_Grace
+
+
+See also: [[Siege of the Pyriphlegethon Arsenal]]

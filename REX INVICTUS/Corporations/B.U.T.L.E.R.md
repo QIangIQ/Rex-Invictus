@@ -127,3 +127,9 @@ Uniform configurations reflect this approach:
 - Embedded [[Emitter Identification|Emitter Signature]] detection systems
     
 - Hidden counter-surveillance modules
+
+---
+
+### Household Precedence (Victorian)
+
+BUTLER is all male. Every operative also holds a Victorian household rank, from Hall Boy up through House Steward, and that rank decides his authority in the same way a military rank would. The high command is the Family: cadet lines descended from the Central Powers monarchies, headed by the Master. Their brothers serve in BUTLER and their sisters in [[M.A.I.D]]. The full ladder, the matching medieval grades and the names are in [[Generated Names (2026-11-16)]].

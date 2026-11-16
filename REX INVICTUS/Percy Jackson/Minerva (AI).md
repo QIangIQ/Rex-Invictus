@@ -492,3 +492,6 @@ Minerva is a superintelligent AI living in the far-future Undying Olympian Empir
 
 - [[Alpha-Class AI]]
 - Battle-suit intelligence
+
+
+See also: [[Siege of the Pyriphlegethon Arsenal]]
