@@ -17,6 +17,7 @@ This note is the vault's home page. Every folder has an entry point linked below
 - Current drafts: [[Draft - Interlude II]], [[Draft - Rex Invictus XVII - The Road North]], [[Draft - Rex Invictus XVII - Obscurus One]], [[Draft - Rex Invictus XVI - Continuation]], [[Draft - Bianca and the Hollow Crescent]]
 - Superseded drafts: [[Draft - Interlude I (alt)]], [[Draft - Interlude - The Wound]], [[Draft - Minerva - Underlane]], [[Draft - Minerva - Voss]], [[Draft - Rex Invictus XV - Orpheus]], [[Draft - Rex Invictus XVI]], [[Draft - Thalia - Near Miss]]
 - Planning: [[Plot Threads]], [[Brainstorm - Bianca and the Hollow Crescent]], [[IDEAS TO ADD (WIP)]], [[SECTIONS TO ADD (WIP)]], [[OWN CHARACTERS]], [[Old EN conversion]], [[Unresolved Links Report]]
+- [[To Fly on Borrowed Wings]]: new fic section, Gabriel Jagdfeld and the 1914-1915 Europa cast (added 2026-11-26)
 
 ## Lore reference
 - [[00_START_HERE_Version_Guide_and_World_Primer]]: version guide, glossary and chronology
