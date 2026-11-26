@@ -6,7 +6,7 @@ source: Wikipedia, "Allied leaders of World War I" and "Leaders of the Central P
 
 Every person named on the two Wikipedia list pages, kept as a **name bank** for inventing characters. These are real historical people, so use them as raw material (surnames, given names, titles, naming patterns) and don't drop them into the story unchanged.
 
-Used by: [[Generated Names (2026-11-16)]]. See also [[OWN CHARACTERS]] and [[(Potential) Pilot Names]].
+Used by: [[Names (2026-11-16)]]. See also [[OWN CHARACTERS]] and [[(Potential) Pilot Names]].
 Total: 416 names.
 
 

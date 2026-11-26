@@ -99,4 +99,4 @@ MAID is divided into:
 
 ### Household Precedence (Victorian)
 
-MAID is all female. Every operator also holds a Victorian household rank, from Scullery Maid up through Housekeeper, and that rank decides her authority in the same way a military rank would. The high command is the Family: cadet lines descended from the Central Powers monarchies, headed by the Mistress. Their sisters serve in MAID and their brothers in [[B.U.T.L.E.R]]. The full ladder, the matching French grades and the names are in [[Generated Names (2026-11-16)]].
+MAID is all female. Every operator also holds a Victorian household rank, from Scullery Maid up through Housekeeper, and that rank decides her authority in the same way a military rank would. The high command is the Family: cadet lines descended from the Central Powers monarchies, headed by the Mistress. Their sisters serve in MAID and their brothers in [[B.U.T.L.E.R]]. The full ladder, the matching French grades and the names are in [[Names (2026-11-16)]].

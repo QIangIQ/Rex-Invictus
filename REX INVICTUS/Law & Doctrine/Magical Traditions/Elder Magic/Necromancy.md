@@ -40,3 +40,7 @@ Air • Earth • Fire • Water • Time
 ## Sources
 
 - *The Secrets of the Immortal Nicholas Flamel* Wiki (Fandom), "Necromancy".
+
+---
+
+For the school of necromancy as measured in Parzivals (its workings, aspect lean and costs), see [[Necromancy (School)]] in [[Parzival Thaumaturgy]].

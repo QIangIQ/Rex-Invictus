@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 76" width="420" height="76">
+<title>Turbulent Gas spectrum</title>
+<rect width="420" height="60" fill="#000"/>
+<rect x="126.8" y="0" width="3.2" height="60" fill="#8cff00" opacity="1.00"/>
+<rect x="150.1" y="0" width="3.2" height="60" fill="#3bff00" opacity="1.00"/>
+<rect x="4.4" y="0" width="3.2" height="60" fill="#ff0028" opacity="0.97"/>
+<rect x="4.4" y="0" width="3.2" height="60" fill="#ff0028" opacity="0.97"/>
+<rect x="27.1" y="0" width="3.2" height="60" fill="#ff2200" opacity="0.98"/>
+<rect x="100.4" y="0" width="3.2" height="60" fill="#e3ff00" opacity="1.00"/>
+<text x="6.0" y="72" font-size="9" fill="#888" text-anchor="middle">0</text>
+<text x="108.0" y="72" font-size="9" fill="#888" text-anchor="middle">0.25</text>
+<text x="210.0" y="72" font-size="9" fill="#888" text-anchor="middle">0.5</text>
+<text x="312.0" y="72" font-size="9" fill="#888" text-anchor="middle">0.75</text>
+<text x="414.0" y="72" font-size="9" fill="#888" text-anchor="middle">1</text>
+</svg>

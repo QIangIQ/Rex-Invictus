@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 76" width="420" height="76">
+<title>Spider Climb spectrum</title>
+<rect width="420" height="60" fill="#000"/>
+<rect x="86.0" y="0" width="3.2" height="60" fill="#ffea00" opacity="1.00"/>
+<rect x="361.4" y="0" width="3.2" height="60" fill="#9600ff" opacity="0.87"/>
+<rect x="262.1" y="0" width="3.2" height="60" fill="#00c0ff" opacity="0.94"/>
+<rect x="364.4" y="0" width="3.2" height="60" fill="#9b00ff" opacity="0.87"/>
+<text x="6.0" y="72" font-size="9" fill="#888" text-anchor="middle">0</text>
+<text x="108.0" y="72" font-size="9" fill="#888" text-anchor="middle">0.25</text>
+<text x="210.0" y="72" font-size="9" fill="#888" text-anchor="middle">0.5</text>
+<text x="312.0" y="72" font-size="9" fill="#888" text-anchor="middle">0.75</text>
+<text x="414.0" y="72" font-size="9" fill="#888" text-anchor="middle">1</text>
+</svg>

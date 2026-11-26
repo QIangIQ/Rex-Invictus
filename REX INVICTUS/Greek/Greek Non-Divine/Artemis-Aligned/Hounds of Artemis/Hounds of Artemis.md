@@ -4,6 +4,7 @@ Part of the [[Greek Pantheon]]
 Domesticated Wolves and [[Werewolves]] under [[Hunters of Artemis]]
 Receive Reinforcements form [[Lupa]] and the [[Wolf House]]
 Enhanced detection towards [[Lycaon]] and his pack
+Packs are run by werewolf [[Pack Masters]], subservient to the [[Hunters of Artemis]]
 
 - [[Arlechinus]]
 - [[Brigellus]]

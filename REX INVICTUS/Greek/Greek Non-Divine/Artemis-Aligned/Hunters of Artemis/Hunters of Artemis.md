@@ -25,6 +25,7 @@ updated: 2026-11-02
         - Lieutenants: [[Zoe Nightshade]], [[Thalia Grace]]
         - Members: [[Atlanta]], [[Celyn]], [[Hemithea]], [[Josephine]], [[Naomi]], [[Phoebe]], [[Bianca di Angelo]]
     - [[Hounds of Artemis]]
+        - [[Pack Masters]]
 
 ---
 

@@ -55,3 +55,7 @@ Magic must require a defined progression from access to mastery, unless created 
 
 **XIX. Lex Specialisationis Thematicae (Thematic Specialization)**  
 Magic must be either general in scope or divided into a specialized [Divine Affinity](Divine%20Affinity).
+
+---
+
+**Applied in:** every working in the [[Spell Registry]] carries a ULMTU compliance table. The main applications are set out in [[Parzival Thaumaturgy]], [[Parzival Energy Budget]] (III), [[Magical Countermeasures and Magical Intelligence (MCM-MINT)]] (V), [[Recast Tension and Combination Affinity]] (VIII), [[Aspect Theory of Magic]] (IX) and [[Science Spellbook Registry]] (XVI). Under XVI the registry reads "100 MegaParzival-Seconds" as a total draw of 100 MPz.

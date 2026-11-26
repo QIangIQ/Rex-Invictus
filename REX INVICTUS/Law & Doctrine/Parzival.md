@@ -86,3 +86,21 @@ It functions as the **baseline unit for all magical computation**, analogous to 
     - [[Divine Single Event Effects (DSEE)|Divine Domain Mismatch]]
         
 - Directional neutrality reflects [[Hecate]]’s authority over thresholds and liminal transitions, eliminating vector bias in base calculations
+
+---
+
+### **Parzival Thaumaturgy**
+
+The full applied system built on this unit is documented in [[Parzival Thaumaturgy]]: conversion from source mana ([[Mana-Parzival Conversion]], 1 Mn = 350 Pz), slot quanta by tier ([[Caster Capacity and Tiers]]), the energy budget of every working ([[Parzival Energy Budget]]) and the [[Spell Registry]].
+
+| Tier | Slot quantum Q_T (Pz) |
+|---|---|
+| 0 | 129 |
+| 1 | 350 |
+| 2 | 951 |
+| 3 | 2,586 |
+| 5 | 19,107 |
+| 7 | 141,183 |
+| 9 | 1,043,203 |
+
+Q_T = 350 × e^(T−1) Pz; a working's energy-equivalent tier is T_E = 1 + ln(E / 350 Pz).

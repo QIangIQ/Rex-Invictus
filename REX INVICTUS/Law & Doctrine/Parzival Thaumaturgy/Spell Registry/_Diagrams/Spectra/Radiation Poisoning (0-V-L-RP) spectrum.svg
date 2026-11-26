@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 76" width="420" height="76">
+<title>Radiation Poisoning spectrum</title>
+<rect width="420" height="60" fill="#000"/>
+<rect x="4.4" y="0" width="3.2" height="60" fill="#ff0028" opacity="1.00"/>
+<rect x="266.7" y="0" width="3.2" height="60" fill="#00afff" opacity="0.88"/>
+<rect x="208.4" y="0" width="3.2" height="60" fill="#00ff8b" opacity="0.92"/>
+<rect x="47.3" y="0" width="3.2" height="60" fill="#ff6300" opacity="1.00"/>
+<rect x="124.4" y="0" width="3.2" height="60" fill="#91ff00" opacity="0.97"/>
+<text x="6.0" y="72" font-size="9" fill="#888" text-anchor="middle">0</text>
+<text x="108.0" y="72" font-size="9" fill="#888" text-anchor="middle">0.25</text>
+<text x="210.0" y="72" font-size="9" fill="#888" text-anchor="middle">0.5</text>
+<text x="312.0" y="72" font-size="9" fill="#888" text-anchor="middle">0.75</text>
+<text x="414.0" y="72" font-size="9" fill="#888" text-anchor="middle">1</text>
+</svg>

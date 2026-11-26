@@ -1,6 +1,7 @@
 [[Greek Pantheon]]
 [[Monsters (Greek)]]
 Generally all under [[Lycaon]] or [[Lupa]]
+In the UOE, werewolf [[Pack Masters]] run the [[Hounds of Artemis]] for the Hunt
 
 ---
 
